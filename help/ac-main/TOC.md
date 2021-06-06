@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign을 사용하면 크로스 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 39%
+source-wordcount: '300'
+ht-degree: 40%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 39%
       + [게재 템플릿 속성 설정](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [임시 이메일 게재 템플릿 배포](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + 피로 관리{#fatigue-management}
-      + [유형화 규칙 사용](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [미리 정의된 필터 사용](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [유형화 규칙](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [사전 정의된 필터](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [구독 서비스 구성 및 관리](/help/send-messages/configure-and-manage-subscription-services.md)
 + 프로세스 관리 및 자동화{#process-management}
    + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
