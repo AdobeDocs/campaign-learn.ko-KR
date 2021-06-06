@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign을 사용하면 크로스 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 40%
+source-wordcount: '301'
+ht-degree: 36%
 
 ---
 
