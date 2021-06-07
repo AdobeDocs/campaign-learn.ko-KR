@@ -6,9 +6,8 @@ product: campaign
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-learn.ko-KR
-index: false
-hide: true
-source-git-commit: 52306c05419ca3dd755a05ae211f4badad0b8d01
+index: true
+source-git-commit: 404d77c2fafa408c53a8b23794422cbbd38f76ee
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 93%
