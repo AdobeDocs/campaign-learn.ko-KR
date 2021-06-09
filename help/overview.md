@@ -6,10 +6,10 @@ feature: 개요
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 14%
+source-wordcount: '271'
+ht-degree: 20%
 
 ---
 
@@ -19,8 +19,59 @@ Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플�
 
 >[!NOTE]
 > Campaign v8은 현재 관리 Cloud Service으로만 사용할 수 있으며 온-프레미스 또는 하이브리드 환경에 배포할 수 없습니다. 기존 Campaign Classic v7 환경에서 마이그레이션을 아직 사용할 수 없습니다.
->두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/capability-matrix.html?lang=en#start)를 참조하십시오. 비디오 방법에 대해서는 [Campaign Classic V7 자습서](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
+>두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)를 참조하십시오. 비디오 방법에 대해서는 [Campaign Classic V7 자습서](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
 
 ## 새로운 기능
 
-[주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/whats-new.html?lang=en#start)
+[주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+
+## 직원 추천
+
+<table>
+<tr>
+  <td>
+    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <img alt="마케팅 계획, 프로그램 및 캠페인 만들기(비디오)" src="./assets/333810.jpg"/>
+    </a>
+    <div>
+      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <strong>마케팅 계획 만들기</strong>
+    </a>
+    </div>
+    <p>
+    <em>마케팅 계획, 프로그램 및 캠페인을 만드는 방법을 알아봅니다.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./content-creation/create-and-design-email-deliveries.md">
+      <img alt="이메일 게재 만들기 및 디자인(비디오)" src="./assets/333476.jpg" />
+    </a>
+    <div>
+      <a href="../content-creation/create-and-design-email-deliveries.md">
+    <strong>이메일 게재 만들기 및 디자인</strong>
+    </a>
+    </div> 
+    <p>
+    <em>이메일 게재 만들기 프로세스를 파악하고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 살펴봅니다.
+</em>
+    <p>
+  </td>
+  <td>
+    <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
+      <img alt="유형화 규칙을 사용하여 피로도 관리(비디오)" src="./assets/333787.jpg" />
+    </a>
+    <div>
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+    <strong>유형화 규칙을 사용하여 피로도 관리</strong>
+    </a>
+    </div>
+    <p>
+    <em>유형화 규칙을 사용하여 Adobe Campaign에서 피로도 관리를 구현하는 방법을 알아봅니다.  </em>
+    <p>
+  </td>
+</tr>
+</table>
+
+## 추가 리소스
+
+* [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html)
