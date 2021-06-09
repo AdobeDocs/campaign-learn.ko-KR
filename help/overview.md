@@ -6,7 +6,7 @@ feature: 개요
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 20%
@@ -47,7 +47,7 @@ Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플�
       <img alt="이메일 게재 만들기 및 디자인(비디오)" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>이메일 게재 만들기 및 디자인</strong>
     </a>
     </div> 
@@ -61,7 +61,7 @@ Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플�
       <img alt="유형화 규칙을 사용하여 피로도 관리(비디오)" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>유형화 규칙을 사용하여 피로도 관리</strong>
     </a>
     </div>
