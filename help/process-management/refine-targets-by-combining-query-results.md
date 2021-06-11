@@ -1,7 +1,7 @@
 ---
-title: 쿼리 결과를 결합하여 대상을 세분화합니다.
+title: 쿼리 결과를 결합하여 대상 세분화하기
 description: 교차 또는 결합 활동을 사용하여 워크플로우에 쿼리 결과를 결합하여 대상을 세분화하는 방법을 알아봅니다.
-feature: 워크플로우, 타겟팅 활동, 쿼리 편집기
+feature: 워크플로우, 타기팅 활동, 쿼리 편집기
 kt: 7844
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -11,13 +11,13 @@ role: Business Practitioner
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# 쿼리 결과를 결합하여 대상을 세분화합니다.
+# 쿼리 결과를 결합하여 대상 세분화하기
 
 **[!UICONTROL 교차]** 또는 **[!UICONTROL 결합]** 활동을 사용하여 워크플로우에 쿼리 결과를 결합하여 대상을 세분화하는 방법을 알아봅니다.
 
@@ -27,4 +27,4 @@ ht-degree: 8%
 
 * [워크플로우에서 프로필 타기팅](/help/profile-management/target-profiles-in-a-workflow.md)
 * [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
-* [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록을 만듭니다](/help/process-management/use-the-update-list-activity.md)
+* [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/process-management/use-the-update-list-activity.md)
