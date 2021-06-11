@@ -1,6 +1,6 @@
 ---
-title: 동적 콘텐츠 구성
-description: 다양한 유형의 다이내믹 컨텐츠를 파악하고 개인화 블록 및 조건문을 만들어 전달하는 방법을 알아봅니다.
+title: 다이내믹 콘텐츠 구성
+description: 다양한 유형의 다이내믹 콘텐츠를 파악하고 개인화 블록 및 조건문을 만들어 게재에 적용하는 방법을 알아봅니다.
 feature: 다이내믹 콘텐츠, 개인화, 이메일
 kt: 7789
 thumbnail: 329936.jpg
@@ -15,13 +15,13 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 동적 콘텐츠 구성
+# 다이내믹 콘텐츠 구성
 
-다양한 유형의 다이내믹 컨텐츠를 파악하고 개인화 블록 및 조건문을 만들어 전달하는 방법을 알아봅니다.
+다양한 유형의 다이내믹 콘텐츠를 파악하고 개인화 블록 및 조건문을 만들어 게재에 적용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
