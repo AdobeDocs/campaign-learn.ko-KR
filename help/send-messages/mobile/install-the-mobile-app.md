@@ -12,9 +12,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 4%
 
 ## 추가 리소스
 
-* [앱 구성 시작(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html)
+* [앱 구성 시작(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=ko)
