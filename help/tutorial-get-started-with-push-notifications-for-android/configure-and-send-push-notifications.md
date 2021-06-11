@@ -10,9 +10,9 @@ team: TM
 role: Administrator, Developer, Business Practitioner
 level: Beginner, Intermediate, Experienced
 source-git-commit: bbb2935aa5900eb05ba1909aa32d775d7ec13eee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Android™ 애플리케이션 사용자에게 [!DNL push] 알림을 구성하고
 
 **이전 단계**
 
-2단계:[Android™ 서비스를 구성하고 Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)에서 Android™ 모바일 애플리케이션을 만듭니다.
+2단계: [Campaign에서 Android™ 서비스 구성 및 Android™ 모바일 애플리케이션 만들기](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
