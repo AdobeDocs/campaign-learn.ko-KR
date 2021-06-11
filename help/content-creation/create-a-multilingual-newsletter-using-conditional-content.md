@@ -1,6 +1,6 @@
 ---
 title: 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
-description: 다국어 뉴스레터의 예에서 전달 시 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
+description: 다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
 feature: 다이내믹 콘텐츠
 kt: 7792
 thumbnail: 24926.jpg
@@ -10,9 +10,9 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 37%
 
 조건부 컨텐츠 필드를 구성하여 고급 개인화를 만들 수 있습니다. 특정 조건이 충족되면 전체 텍스트 블록 및/또는 이미지가 교체됩니다.
 
-다국어 뉴스레터의 예에서 전달 시 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
+다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
