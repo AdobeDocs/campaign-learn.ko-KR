@@ -1,7 +1,7 @@
 ---
 title: 유형화 규칙을 사용하여 피로도 관리.
-description: 유형화 규칙을 적용하여 피로 관리를 구현하는 방법을 알아봅니다.
-feature: 피로 관리
+description: 유형화 규칙을 적용하여 피로도 관리를 구현하는 방법을 알아봅니다.
+feature: 피로도 관리
 kt: 7959
 thumbnail: 333787.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 8%
+ht-degree: 73%
 
 ---
 
@@ -27,5 +27,5 @@ ht-degree: 8%
 
 ## 추가 리소스
 
-* [캠페인 타이폴로지 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
-* [압력 규칙으로 마케팅 피로도 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=en)
+* [캠페인 유형화 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko)
+* [압력 규칙으로 마케팅 피로도 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=ko)
