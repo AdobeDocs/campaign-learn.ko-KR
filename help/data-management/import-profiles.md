@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 18%
 
 ## 추가 리소스
 
-- [프로필 내보내기 및 가져오기](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
+- [프로필 내보내기 및 가져오기](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html?lang=ko)
