@@ -1,6 +1,6 @@
 ---
-title: 되풀이 및 연속 이메일 캠페인을 설정하는 방법
-description: 반복 및 연속 게재를 설정하고 두 방법 간의 차이점을 이해하는 방법을 알아봅니다.
+title: 반복 및 연속 이메일 캠페인을 설정하는 방법
+description: 반복 및 연속 게재를 설정하는 방법을 알아보고 두 접근 방식 간의 차이점을 이해합니다.
 feature: 워크플로우
 kt: 7982
 doc-type: feature video
@@ -9,16 +9,16 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# 되풀이 및 연속 이메일 캠페인을 설정하는 방법
+# 반복 및 연속 이메일 캠페인을 설정하는 방법
 
-이 자습서에서는 반복 및 연속 게재를 설정하는 방법과 두 접근 방식 간의 차이점을 설명합니다.
+이 튜토리얼에서는 반복 및 연속 게재를 설정하는 방법과 두 접근 방식 간의 차이점을 설명합니다.
 
 ## 반복 및 연속 게재 추적 {#recurring-and-continuous-delivery-tracking}
 
