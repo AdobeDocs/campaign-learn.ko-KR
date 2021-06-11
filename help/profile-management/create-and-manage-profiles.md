@@ -10,9 +10,9 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 74%
 
 프로필의 개념을 이해합니다. 프로필 데이터에 액세스하고, 프로필을 정렬 및 필터링하고, 프로필을 수동으로 만들고 관리하는 방법을 알아봅니다.
 
-또한 이 비디오에서는 Adobe Campaign의 개인 정보 보호 규정(GDPR) 준수 및 CCPA(California Consumer Privacy Act)에 대해서도 설명합니다.
+또한 이 비디오에서는 Adobe Campaign의 개인 정보 보호 규정(GDPR) 및 CCPA(California Consumer Privacy Act) 준수에 대해서도 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
