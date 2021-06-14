@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
