@@ -3,25 +3,24 @@ title: 워크플로우에서 프로필 타기팅
 description: 캠페인 워크플로우의 사용을 이해하고 필터링 조건을 사용하여 워크플로우를 만들고 워크플로우에서 프로필을 타기팅하는 방법을 알아봅니다.
 feature: 워크플로우
 kt: 7842
-thumbnail: 35614.jpg
+thumbnail: 334300.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 32e930c42dc5c06204ebe250e2ea6aa281c68738
+source-git-commit: 7505da93d6666780e91f2c6133d42204d9d6d2b7
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
 
-
 # 워크플로우에서 프로필 타기팅
 
 캠페인 워크플로우의 사용을 이해하고 필터링 조건을 사용하여 워크플로우를 만들고 워크플로우에서 프로필을 타기팅하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
 ## 다음 튜토리얼
 
