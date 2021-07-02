@@ -9,13 +9,14 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+hide: true
+hidefromtoc: true
+source-git-commit: 18b670cf4cd375dfaa741f91524783f4043ecfee
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 게재 템플릿 구성
 
