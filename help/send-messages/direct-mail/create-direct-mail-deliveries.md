@@ -7,10 +7,10 @@ thumbnail: 333401.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
