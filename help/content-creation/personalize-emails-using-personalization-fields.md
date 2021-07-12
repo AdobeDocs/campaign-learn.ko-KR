@@ -7,15 +7,15 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 32e930c42dc5c06204ebe250e2ea6aa281c68738
+exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # 개인화 필드를 사용하여 이메일 개인화
 
