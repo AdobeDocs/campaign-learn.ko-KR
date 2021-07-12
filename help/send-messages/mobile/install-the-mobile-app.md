@@ -7,11 +7,12 @@ thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
+exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
