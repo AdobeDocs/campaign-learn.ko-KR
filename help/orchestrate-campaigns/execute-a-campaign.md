@@ -7,17 +7,17 @@ thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+exl-id: 39dcdffe-9e7e-44bf-b820-c32a4b6c1962
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
 ---
-
 
 # 캠페인 실행
 
