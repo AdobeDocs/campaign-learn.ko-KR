@@ -7,15 +7,15 @@ thumbnail: 333787.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 73%
 
 ---
-
 
 # 유형화 규칙을 사용하여 피로도 관리
 
