@@ -7,15 +7,15 @@ thumbnail: 333629.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Developer, Administrator
+role: Developer, Admin
 level: Beginner
-source-git-commit: 15a0093e010306c7ab59ebb6c4d9bdddfd4cec18
+exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
 ---
-
 
 # 랜딩 페이지 구성
 
