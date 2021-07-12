@@ -6,11 +6,11 @@ kt: 7976
 thumbnail: 334460.jpg
 doc-type: feature video
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Advanced
 hide: true
 hidefromtoc: true
-source-git-commit: 18b670cf4cd375dfaa741f91524783f4043ecfee
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 11%
