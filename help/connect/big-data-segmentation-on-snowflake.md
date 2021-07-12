@@ -6,11 +6,12 @@ kt: 7780
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: 0650879c-48d3-4ce0-b80a-d6411fd623bd
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
