@@ -7,15 +7,15 @@ thumbnail: 333778.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Experienced
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 84%
 
 ---
-
 
 # 사전 정의된 필터를 사용하여 피로도 관리
 
