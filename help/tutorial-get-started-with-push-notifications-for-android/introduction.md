@@ -6,9 +6,10 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
-source-git-commit: 39bed2fe5fbe19101a9684b29d73f61026ad77b2
+exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
