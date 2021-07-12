@@ -7,17 +7,17 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
+exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
 ---
-
 
 # AMP로 대화형 이메일 콘텐츠 정의하기
 
