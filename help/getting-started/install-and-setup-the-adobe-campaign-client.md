@@ -7,17 +7,17 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+exl-id: 957aba61-f6b2-4bc9-a804-40a4f40b6365
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Campaign 클라이언트 설치 및 설정
 
