@@ -6,15 +6,15 @@ kt: 7989
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 0a6e09e6-0d23-4267-ba74-39523735e83d
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 워크플로우 만들기
 
