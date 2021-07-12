@@ -1,22 +1,22 @@
 ---
 title: 프로필 가져오기
-description: 'Adobe Campaign에서 프로필을 가져오는 방법을 알아봅니다 '
+description: Adobe Campaign에서 프로필을 가져오는 방법을 알아봅니다
 feature: 프로필
 kt: 7968
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: c19d1e3b-7df4-454d-b59f-49385eecea62
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 
 ---
-
 
 # 프로필 가져오기
 
