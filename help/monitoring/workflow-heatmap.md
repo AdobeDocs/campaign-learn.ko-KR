@@ -6,10 +6,10 @@ kt: 7970
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 100%
