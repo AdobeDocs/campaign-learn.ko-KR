@@ -7,10 +7,10 @@ thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: 88c2e8d387203cbd725efcef18052ae431b6d2b5
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
