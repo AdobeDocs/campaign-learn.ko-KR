@@ -6,15 +6,15 @@ kt: 7849
 thumbnail: 333471.jpg
 doc-type: feature video
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
 ---
-
 
 # 게재 가능성을 위한 이메일 디자인
 
