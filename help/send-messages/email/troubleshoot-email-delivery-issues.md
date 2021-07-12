@@ -7,15 +7,15 @@ thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
 
 ---
-
 
 # 이메일 게재 문제 해결
 
