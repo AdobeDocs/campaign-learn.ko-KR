@@ -7,15 +7,15 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
 ---
-
 
 # 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 
