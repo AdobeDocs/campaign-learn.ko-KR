@@ -3,10 +3,10 @@ title: Adobe Campaign V8 튜토리얼 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 sub-product: Campaign V8
 feature: 개요
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 71%
