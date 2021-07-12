@@ -7,17 +7,17 @@ thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+exl-id: 915d3fe8-d4ca-40d3-a0ff-683f79634a5d
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 100%
 
 ---
-
 
 # 이벤트가 트리거된 캠페인 만들기
 
