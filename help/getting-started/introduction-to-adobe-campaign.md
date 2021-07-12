@@ -7,17 +7,17 @@ thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+exl-id: b598e7ac-32ba-4fa4-b761-2cc2c9f557b2
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Campaign V8 소개
 
