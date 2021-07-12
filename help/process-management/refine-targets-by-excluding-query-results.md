@@ -7,15 +7,15 @@ thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
 ---
-
 
 # 쿼리 결과를 제외하여 대상 세분화하기
 
