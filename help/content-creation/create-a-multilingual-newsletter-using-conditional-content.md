@@ -7,15 +7,15 @@ thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
 ---
-
 
 # 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 
