@@ -7,15 +7,15 @@ thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL 앱 구독] 스키마를 확장하여 푸시 알림 개인화
 
