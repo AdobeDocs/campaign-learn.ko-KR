@@ -7,15 +7,15 @@ thumbnail: 333810.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: beginner
-source-git-commit: f4f919cdf3dc843c1b87d1b596ae317c5c7fbb98
+exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
 ---
-
 
 # 마케팅 계획, 프로그램 및 캠페인 만들기
 
