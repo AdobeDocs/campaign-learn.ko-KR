@@ -3,14 +3,14 @@ title: 캠페인에서 승인 관리
 description: 승인 및 캠페인을 설정하는 방법과 게재 및 워크플로우 승인을 구분하는 방법을 알아봅니다.
 feature: 워크플로우, 승인
 kt: 7787
-thumbnail: 329605.jpg
+thumbnail: 334479.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: User
 level: Beginner
 exl-id: 5526b384-b270-4794-8ce3-7cfd8ddbe16b
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ef973e5e520defb43ad0e18ea2cabd153b681d24
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 승인 및 캠페인을 설정하는 방법과 게재 및 워크플로우 승인을 구분하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12)
