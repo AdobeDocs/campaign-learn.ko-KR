@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 93%
       + [게재 가능성을 위한 이메일 디자인](/help/send-messages/email/design-emails-for-deliverability.md)
       + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS {#sms}
-      + [SMS 게재 만들기](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [SMS 게재 만들기](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 푸시 {#push}
       + [모바일 앱 채널 설치](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
