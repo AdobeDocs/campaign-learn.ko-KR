@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 95%
+source-wordcount: '296'
+ht-degree: 91%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 95%
 # Adobe Campaign v8 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
-+ {#getting-started}시작
-   + [Adobe Campaign 소개](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Adobe Campaign 사용자 인터페이스 살펴보기](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [마케팅 캠페인 관리](/help/getting-started/manage-marketing-campaigns.md)
-   + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [이벤트가 트리거된 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
++ 시작하기 {#getting-started}
+   + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Adobe Campaign 클라이언트 설치 및 설정](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Adobe Campaign 사용자 인터페이스 살펴보기](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [마케팅 캠페인 관리](/help/get-started/manage-marketing-campaigns.md)
+   + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [이벤트가 트리거된 캠페인 만들기](/help/get-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [워크플로우에서 프로필 타기팅](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 95%
 + 프로세스 관리 및 자동화{#process-management}
    + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
    + [반복 및 연속 게재 만들기](/help/process-management/recurring-deliveries.md)
-   + [타기팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
-   + [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/process-management/use-the-update-list-activity.md)
+   + [타겟팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
    + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [유효성 검사 워크플로우 만들기](/help/process-management/create-validation-workflows.md)
    + [승인 관리](/help/process-management/manage-approvals.md)
+   + [업데이트 목록 활동 사용](/help/process-management/use-the-update-list-activity.md)
    + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
 + 데이터 관리 {#data-management}
    + [프로필 가져오기](/help/data-management/import-profiles.md)
