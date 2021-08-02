@@ -1,6 +1,6 @@
 ---
 title: 멀티채널 및 크로스 채널 캠페인 소개
-description: 멀티채널 및 크로스 채널 캠페인의 차이점과 두 캠페인의 사용 사례를 알아봅니다.
+description: 다중 채널 및 크로스 채널 캠페인과 사용 사례 간의 차이점을 파악합니다.
 feature: 워크플로우
 kt: 7796
 thumbnail: 335610.jpg
@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f7391930-f712-408a-8933-3225d10864e7
-source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
+source-git-commit: 876f452469c9ed1b8c470a736aee7d62c9df8f37
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 46%
 
 ---
 
 # 멀티채널 및 크로스 채널 캠페인 소개
 
-멀티채널 및 크로스 채널 캠페인의 차이점과 두 캠페인의 사용 사례를 알아봅니다.
+다중 채널 및 크로스 채널 캠페인과 사용 사례 간의 차이점을 파악합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12)
 
