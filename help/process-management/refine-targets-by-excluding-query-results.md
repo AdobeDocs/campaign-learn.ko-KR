@@ -1,6 +1,6 @@
 ---
 title: 쿼리 결과를 제외하여 대상 세분화하기
-description: 워크플로우에 표준 제외를 적용하여 대상을 세분화하는 방법과 사전 정의된 필터를 만드는 방법 및 워크플로우 문제 해결 방법을 알아봅니다.
+description: 을(를) 적용하여 대상을 세분화하는 방법을 알아봅니다  워크플로우에 대한 표준 제외. 미리 정의된 필터를 만들고 워크플로우를 문제 삼는 방법을 알아봅니다.
 feature: 워크플로우, 타기팅 활동, 쿼리 편집기
 kt: 7845
 thumbnail: 335609.jpg
@@ -10,16 +10,16 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
+source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 46%
+source-wordcount: '96'
+ht-degree: 47%
 
 ---
 
 # 쿼리 결과를 제외하여 대상 세분화하기
 
-워크플로우에 **[!UICONTROL 표준 제외]**&#x200B;를 적용하여 대상을 세분화하는 방법과 사전 정의된 필터를 만드는 방법과 워크플로우 문제 해결 방법을 알아봅니다.
+을(를) 적용하여 대상을 세분화하는 방법을 알아봅니다  워크플로우에 대한 표준 제외. 미리 정의된 필터를 만들고 워크플로우를 문제 삼는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
