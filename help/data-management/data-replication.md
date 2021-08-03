@@ -8,9 +8,7 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Advanced
-hide: true
-hidefromtoc: true
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 087d4276f82608b3b53b9a1260235139df8e9008
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 11%
