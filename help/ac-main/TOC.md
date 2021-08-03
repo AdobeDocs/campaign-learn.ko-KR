@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 91%
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 91%
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [워크플로우에서 프로필 타기팅](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campaign 오케스트레이션 {#campaign-orchestration}
++ 캠페인 오케스트레이션 {#campaign-orchestration}
    + [캠페인 실행](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [멀티 및 크로스 캠페인 소개](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [멀티채널 캠페인 만들기](/help/orchestrate-campaigns/multi-channel-campaigns.md)
