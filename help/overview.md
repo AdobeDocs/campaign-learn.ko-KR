@@ -6,7 +6,7 @@ feature: 개요
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 71%
@@ -30,11 +30,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 <table>
 <tr>
   <td>
-    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
       <img alt="마케팅 계획, 프로그램 및 캠페인 만들기(비디오)" src="./assets/333810.jpg"/>
     </a>
     <div>
-      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
     <strong>마케팅 계획 만들기</strong>
     </a>
     </div>
