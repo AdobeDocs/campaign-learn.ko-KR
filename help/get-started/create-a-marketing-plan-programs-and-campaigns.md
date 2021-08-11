@@ -8,12 +8,12 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: User
-level: beginner
+level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
+source-git-commit: bc664b8392eb3f42940f25e30f697e1ce2ec4ef4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
