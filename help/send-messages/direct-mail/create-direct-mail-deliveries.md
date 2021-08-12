@@ -9,9 +9,8 @@ activity: set-up
 team: WWFRE
 role: User
 level: Beginner
-exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
+source-git-commit: 2e9bd779a76f7113f807262202ee12eb49bfad1a
+workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
 
