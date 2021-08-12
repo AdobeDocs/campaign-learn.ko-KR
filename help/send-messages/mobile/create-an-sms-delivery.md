@@ -9,13 +9,13 @@ activity: use
 team: TM
 exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
 source-git-commit: e6a3f8d3afaa324bc003e7cf3d400d3bfde3ffbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '25'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# SMS 게재 만들기
+# SMS 게재 만들기 
 
 SMS 게재를 만드는 방법을 알아봅니다.
 
