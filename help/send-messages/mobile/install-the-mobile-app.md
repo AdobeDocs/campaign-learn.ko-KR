@@ -13,7 +13,7 @@ hide: true
 hidefromtoc: true
 exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 ## 추가 리소스
 
-* [앱 구성 시작(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=ko)
+* [앱 구성 시작(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ko)
