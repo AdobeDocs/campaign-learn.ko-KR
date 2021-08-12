@@ -1,5 +1,5 @@
 ---
-title: 사전 정의된 필터를 사용하여 피로도 관리
+title: 사전 정의된 필터를 사용한 피로도 관리
 description: 필터를 사용하여 Adobe Campaign에서 피로도 관리를 구현하는 방법을 알아봅니다.
 feature: 피로도 관리
 kt: 7958
@@ -11,16 +11,16 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# 사전 정의된 필터를 사용하여 피로도 관리
+# 사전 정의된 필터를 사용한 피로도 관리
 
-피로도 관리는 수신자의 과도한 요청을 방지하기 위해 메시지 빈도 및 수량을 제어합니다.
-필터를 사용하여 Adobe Campaign에서 피로도 관리를 구현하는 방법을 알아봅니다.
+피로도 관리는 수신자에게 과도한 권유를 보내는 것을 방지하기 위해 메시지 빈도 및 수량을 제어합니다.
+Adobe Campaign에서 필터를 사용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12)
 
