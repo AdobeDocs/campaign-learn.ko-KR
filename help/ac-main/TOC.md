@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 �
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 90%
 # Adobe Campaign v8 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
-+ 시작하기 {#getting-started}
++ 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign 클라이언트 콘솔 설치 및 설정](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign 사용자 인터페이스 살펴보기](/help/get-started/explore-the-adobe-campaign-user-interface.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [게재 가능성을 위한 이메일 디자인](/help/send-messages/email/design-emails-for-deliverability.md)
       + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS {#sms}
-      + [SMS 게재 만들기](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [SMS 게재 만들기 ](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 푸시 {#push}
       + [모바일 앱 채널 설치](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -57,7 +57,7 @@ ht-degree: 90%
    + 게재 템플릿 사용{#using-delivery-templates}
       + [게재 템플릿 구성](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [게재 템플릿 속성 설정](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [임시 이메일 게재 템플릿 배포](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [즉석 이메일 게재 템플릿 배포](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + 피로도 관리{#fatigue-management}
       + [유형화 규칙](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [사전 정의된 필터](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -65,7 +65,7 @@ ht-degree: 90%
 + 프로세스 관리 및 자동화{#process-management}
    + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
    + [반복 및 연속 게재 만들기](/help/process-management/recurring-deliveries.md)
-   + [타겟팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
+   + [타깃팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
    + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [유효성 검사 워크플로우 만들기](/help/process-management/create-validation-workflows.md)
