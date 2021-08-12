@@ -9,9 +9,9 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-learn.ko-KR
 index: true
 source-git-commit: 10904eac94f05d17c125a11f2dd042e4535232c5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '65'
+ht-degree: 100%
 
 ---
 
