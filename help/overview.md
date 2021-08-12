@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 >[!NOTE]
 > Campaign v8은 현재 관리 Cloud Service로만 사용할 수 있으며 온-프레미스 또는 하이브리드 환경에 배포할 수 없습니다. 기존 Campaign Classic v7 환경에서 마이그레이션은 아직 사용할 수 없습니다.
->두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)를 참조하십시오. 설명 비디오를 보려면 [Campaign Classic V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
+>두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ko)를 참조하십시오. 설명 비디오를 보려면 [Campaign Classic V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
 
 ## 새로운 기능
 
-[주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 
 ## 직원 추천
 
@@ -58,15 +58,15 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="유형화 규칙을 사용하여 피로도 관리(비디오)" src="./assets/333787.jpg" />
+      <img alt="유형화 규칙을 사용한 피로도 관리(비디오)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>유형화 규칙을 사용하여 피로도 관리</strong>
+    <strong>유형화 규칙을 사용한 피로도 관리</strong>
     </a>
     </div>
     <p>
-    <em>유형화 규칙을 사용하여 Adobe Campaign에서 피로도 관리를 구현하는 방법을 알아봅니다.  </em>
+    <em>Adobe Campaign에서 유형화 규칙을 사용하여 피로도 관리를 구현하는 방법을 알아봅니다. </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>워크플로우에서 [!UICONTROL 설명 분석 보고서]를 생성하는 방법을 알아봅니다.</em>
+    <em>워크플로우에서  descriptive analysis report 를 생성하는 방법을 알아봅니다.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 추가 리소스
 
-* [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko)
