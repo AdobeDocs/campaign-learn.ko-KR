@@ -9,12 +9,13 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: ab6b88c93d545cae6f685eefda0c3e3e07cd079c
+source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
+
 
 # 다중 채널 캠페인 만들기
 
