@@ -9,12 +9,13 @@ activity: set-up
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 2e9bd779a76f7113f807262202ee12eb49bfad1a
+source-git-commit: 1e92d0d9857175cea9880d260fe47b9dc9f47838
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
+
 
 # DM 게재 만들기
 
