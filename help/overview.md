@@ -6,10 +6,10 @@ feature: 개요
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 77%
+source-wordcount: '364'
+ht-degree: 78%
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 >두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ko)를 참조하십시오. 설명 비디오를 보려면 [Campaign Classic V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
 
 ## 새로운 기능
-
-Adobe Campaign v8의 [주요 기능에 대한 개요](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 
 * **[Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
