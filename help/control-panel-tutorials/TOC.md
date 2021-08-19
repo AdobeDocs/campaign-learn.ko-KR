@@ -7,10 +7,10 @@ index: true
 feature: Campaign 컨트롤 패널
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/get-started.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [에 IP 범위 허용 목록에 추가하다 추가](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [허용 목록 IP 범위](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 인스턴스 설정 {#instance-settings}
-   + [허용 목록에 IP 주소 추가](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [허용 목록 IP 주소](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [URL 권한 추가](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG 키 관리 {#gpg-key-management}
       + [개요](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
