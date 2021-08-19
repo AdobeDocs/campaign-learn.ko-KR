@@ -8,7 +8,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 04659ac7587f21644110bdb4c2c2bf65bc5a49c6
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 54%
@@ -37,11 +37,11 @@ Adobe Campaign Campaign 컨트롤 패널을 통해 Adobe Campaign 관리자는 �
     <p>
   </td>
   <td>
-    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
       <img alt="SFTP 서버에 연결" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
     <strong>데이터 암호화에 대한 GPG 키 생성 및 설치</strong>
     </a>
     </div>
