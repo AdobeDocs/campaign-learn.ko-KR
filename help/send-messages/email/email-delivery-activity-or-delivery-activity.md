@@ -1,14 +1,14 @@
 ---
-title: Adobe Campaign Classic의 이메일 게재 활동과 게재 활동 비교
+title: 이메일 게재 활동과 게재 활동 비교
 description: 이 비디오에서는 게재 템플릿을 구성하고 사용하는 방법을 설명합니다.
 feature: 게재 템플릿
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## 추가 자료 {#additional-resources}
+## 추가 리소스 {#additional-resources}
 
 * [템플릿 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko)
 * [게재 템플릿 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=ko)
