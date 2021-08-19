@@ -6,10 +6,10 @@ feature: 개요
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 84%
+source-wordcount: '380'
+ht-degree: 77%
 
 ---
 
@@ -27,6 +27,10 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 ## 새로운 기능
 
 Adobe Campaign v8의 [주요 기능에 대한 개요](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
+
+* **[Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+
+   *인스턴스별 SFTP 저장소 관리, 허용 목록 IP 주소 또는 GPG 키 관리와 같은 주요 자산을 모니터링하고 관리 작업을 수행하는 방법을 알아봅니다.*
 
 ## 직원 추천
 
