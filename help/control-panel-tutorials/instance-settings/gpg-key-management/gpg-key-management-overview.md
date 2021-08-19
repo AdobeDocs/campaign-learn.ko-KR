@@ -5,7 +5,7 @@ feature: Campaign 컨트롤 패널
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 31%
@@ -18,7 +18,7 @@ GPG(GnuPG)는 비대칭 개별 키 쌍을 사용하여 메시지를 암호화합
 
 지정된 [!DNL Campaign] 인스턴스에 공개/개인 키 쌍을 생성하고 설치하는 방법을 배웁니다.
 
-1. [데이터 암호화에 대한 GPG 키 생성 및 설치](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [데이터 암호화에 대한 GPG 키 생성 및 설치](./generate-and-install-gpg-keys.md)
 2. [GPG 키를 사용하여 데이터 암호화](./use-a-gpg-key-to-encrypt-data.md)
 3. [데이터 암호 해독](./decrypt-data.md)
 
