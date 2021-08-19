@@ -11,12 +11,13 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 88%
 
 ---
+
 
 # Experience Platform Mobile SDK를 사용하여 푸시 채널 구성
 
@@ -27,4 +28,4 @@ ht-degree: 100%
 
 ## 추가 리소스
 
-* [Launch에서 Campaign Classic 확장 구성](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Launch에서 Campaign Classic v7 확장 구성](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
