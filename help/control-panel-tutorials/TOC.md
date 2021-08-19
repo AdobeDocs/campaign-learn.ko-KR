@@ -7,17 +7,17 @@ index: true
 feature: Campaign 컨트롤 패널
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Adobe Campaign 컨트롤 패널 - 자습서 {#control-panel}
 
-+ [Campaign 컨트롤 패널 개요](/help/control-panel-tutorials/control-panel-overview.md)
++ [개요](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/get-started.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [허용 목록에 IP 주소 추가](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [URL 권한 추가](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG 키 관리 {#gpg-key-management}
-      + [GPG 키 관리 - 개요](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [개요](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [GPG 키를 사용하여 데이터 암호화](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [데이터 암호 해독](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + 성능 모니터링 {#performance-monitoring}
