@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 98%
+source-wordcount: '318'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 # Adobe Campaign v8 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
++ [Campaign v8의 주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 + 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign 클라이언트 콘솔 설치 및 설정](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
