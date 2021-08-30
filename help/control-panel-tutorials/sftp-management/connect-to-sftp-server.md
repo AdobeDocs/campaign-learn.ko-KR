@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 * SFTP 서버에 연결할 IP 주소 나열 허용
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
-* SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
+* SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다.
 
 이 비디오에서는 Campaign 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 설명합니다.
 
