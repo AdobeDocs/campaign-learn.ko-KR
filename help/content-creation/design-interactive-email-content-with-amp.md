@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 현재 Gmail, Outlook 및 Mail.ru만 AMP 형식을 지원합니다.
 
-아래 비디오에서는 Adobe Campaign에서 AMP를 활성화하는 방법을 설명하고 사용법을 소개합니다.
+아래 비디오에서는 Adobe Campaign에서 AMP를 활성화하는 방법을 설명하고 사용 사례를 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
