@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko)**
 
    *인스턴스별 SFTP 저장소 관리, 허용 목록 IP 주소 또는 GPG 키 관리와 같은 주요 자산을 모니터링하고 관리 작업을 수행하는 방법을 알아봅니다.*
 
@@ -87,7 +87,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>워크플로우에서  descriptive analysis report 를 생성하는 방법을 알아봅니다.</em>
+    <em>워크플로우에서 descriptive analysis report 를 생성하는 방법을 알아봅니다.</em>
     <p>
   </td>
 
