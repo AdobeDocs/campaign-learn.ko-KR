@@ -8,9 +8,9 @@ feature: Campaign 컨트롤 패널
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 49%
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/get-started.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [허용 목록 IP 범위](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
+   + [IP 범위 허용 목록](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 인스턴스 설정 {#instance-settings}
