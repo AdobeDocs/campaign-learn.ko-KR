@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: bd4a1a00c23e70d7e59946255a93511ee7a65e79
+workflow-type: tm+mt
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -76,6 +76,7 @@ ht-degree: 100%
 + 데이터 관리 {#data-management}
    + [프로필 가져오기](/help/data-management/import-profiles.md)
    + [데이터 복제](/help/data-management/data-replication.md)
+   + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
 + 다른 솔루션과 연결 {#connect}
    + [Snowflake에서 빅데이터 관리](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
