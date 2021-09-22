@@ -7,7 +7,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
+source-git-commit: 9f95ebbbd5fb9fbb1b586eb8edee6e68599a2dec
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 *다양한 타겟팅 및 필터링 차원을 사용하여 데이터를 쿼리하고 교차를 사용하여 출력을 결합하는 방법을 사용합니다.*
 
-**2단계:** [구독한 수신자에게 게재 보내기](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+**2단계:** [구독한 수신자에게 게재 보내기](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
 *데이터 2개 세그먼트에 참여하고, 문서 경고 이메일을 만들고, 외부 API에서 받은 데이터를 기반으로 개인화하는 방법을 알아봅니다.*
