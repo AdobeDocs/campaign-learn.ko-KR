@@ -3,9 +3,9 @@ user-guide-title: Campaign SOAP API 사용
 user-guide-description: Adobe Campaign Soap API를 사용하고 고급 배달 워크플로우를 만드는 방법을 알아봅니다.
 breadcrumb-title: Campaign SOAP API 사용
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: a0bd2ba1ad00fc22a11279159546f9b3818a584b
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 + [1단계 - SOAP API 시작](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)
 + [2단계 - SOAP API 요청을 사용하여 수신자 및 문서 추가](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
 + [3단계 - SOAP API를 통해 사용자 구독](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
-+ 4단계 - 워크플로우 {#content-digest}로 컨텐츠 다이제스트 만들기
-   + [워크플로우를 사용하여 컨텐츠 다이제스트 만들기](/help/tutorial-using-soap-apis/create-a-content-digest-overview.md)
++ 4단계 - 구독자에 대한 &quot;새 문서 경고&quot; 이메일 게재 만들기{#article-alert-email}
+   + [구독자를 위한 &quot;새 문서 경고&quot; 이메일 게재 만들기](/help/tutorial-using-soap-apis/create-article-alert-email-overview.md)
    + [문서 및 수신자 구독 값을 쿼리합니다.](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
    + [열 결합 및 이메일 게재 보내기](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
