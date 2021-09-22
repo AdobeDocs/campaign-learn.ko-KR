@@ -1,6 +1,6 @@
 ---
 title: 자동화된 이메일 게재 보내기
-description: null
+description: 두 개의 세그먼트를 결합하고 컨텐츠 다이제스트가 포함된 개인화된 이메일 게재를 뉴스레터 구독 워크플로우에 추가하는 방법을 알아봅니다.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: e13b99b6b1fbb370304fa6880d108799d1285dba
+source-git-commit: 87b8b5a2616ecb83e70a14adc8e5da804a42da49
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
