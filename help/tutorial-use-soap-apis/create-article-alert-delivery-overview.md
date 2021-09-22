@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ ht-degree: 0%
 
 *다양한 타겟팅 및 필터링 차원을 사용하여 데이터를 쿼리하고 교차를 사용하여 출력을 결합하는 방법을 사용합니다.*
 
-**2단계:** [열에 참여 및 이메일 게재 보내기](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*두 세그먼트에 참여하고 API를 통해 받은 문서 정보와 함께 개인화된 이메일 게재를 이전 단계에서 만든 뉴스레터 구독 워크플로우에 추가하는 방법을 알아봅니다.*
+**2단계:** [구독한 수신자에게 게재 보내기](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*데이터 2개 세그먼트에 참여하고, 문서 경고 이메일을 만들고, 외부 API에서 받은 데이터를 기반으로 개인화하는 방법을 알아봅니다.*

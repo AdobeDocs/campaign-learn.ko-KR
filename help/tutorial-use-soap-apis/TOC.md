@@ -3,7 +3,7 @@ user-guide-title: Campaign SOAP API 사용
 user-guide-description: Adobe Campaign Soap API를 사용하고 고급 배달 워크플로우를 만드는 방법을 알아봅니다.
 breadcrumb-title: Campaign SOAP API 사용
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + 4단계 - 문서 경고 전달 만들기{#article-alert-email}
    + [문서 경고 게재 만들기](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [1부 - 문서 및 수신자 구독 값 쿼리](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [2부 - 열 결합 및 이메일 게재 보내기](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [2부 - 구독한 수신자에게 게재 보내기](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
