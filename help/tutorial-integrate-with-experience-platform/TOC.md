@@ -3,17 +3,17 @@ user-guide-title: Experience Platform과 통합
 user-guide-description: 두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.
 breadcrumb-title: Experience Platform과 통합
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Experience Platform과 통합 {#experience-platform-data-integration}
 
-+ [소개](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [개요](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [Campaign으로 Experience Platform 데이터 가져오기]{#import-experience-platform-data-into-campaign}
    + [캠페인을 대상으로 Experience Platform 연결](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [Experience Platform에서 수신자 데이터 가져오기 및 이메일 보내기](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
