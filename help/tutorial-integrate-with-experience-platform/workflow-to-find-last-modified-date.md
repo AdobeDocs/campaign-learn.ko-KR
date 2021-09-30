@@ -9,9 +9,9 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,38 +28,38 @@ ht-degree: 0%
 날짜 범위를 설정하는 JavaScript:
 
 ```java
-var DEFAULT_LOOKBACK_DAYS = 90;
-vars.OPTION_NAME = "BroadLog_CaptureTime";
+ var DEFAULT_LOOKBACK_DAYS = 90;
+ vars.OPTION_NAME = "BroadLog_CaptureTime";
 
-logInfo("=====================");
-logInfo("Starting Execution...");
+ logInfo("=====================");
+ logInfo("Starting Execution...");
 
-// Establish the last and next RunTimes
-var lastRunTime = getOption(vars.OPTION_NAME);
-var nextRunTime = getCurrentDate();
+ // Establish the last and next RunTimes
+ var lastRunTime = getOption(vars.OPTION_NAME);
+ var nextRunTime = getCurrentDate();
 
-//To reset and run through DEFAULT_LOOKBACK, uncomment the following line.
-//lastRunTime = null;
+ //To reset and run through DEFAULT_LOOKBACK, uncomment the following line.
+ //lastRunTime = null;
 
-logInfo("NEXT Run Date Set: [" + nextRunTime + "]");
-logInfo("LAST Run Date Retrieved (" + lastRunTime + ")");
+ logInfo("NEXT Run Date Set: [" + nextRunTime + "]");
+ logInfo("LAST Run Date Retrieved (" + lastRunTime + ")");
 
-//Check for null so we can default the lastRunTime using the DEFAULT_LOOKBACK 
-if (lastRunTime == null || lastRunTime == "null" || lastRunTime == "") {
+ //Check for null so we can default the lastRunTime using the DEFAULT_LOOKBACK 
+ if (lastRunTime == null || lastRunTime == "null" || lastRunTime == "") {
 
- logInfo("Empty Date Retrieved, setting to default lookback (-" + DEFAULT_LOOKBACK_DAYS + " days)");
- lastRunTime = new Date();
- lastRunTime.setDate(nextRunTime.getDate() - DEFAULT_LOOKBACK_DAYS);
- logInfo("LAST Run Date Set: [" + lastRunTime + "]");
+   logInfo("Empty Date Retrieved, setting to default lookback (-" + DEFAULT_LOOKBACK_DAYS + " days)");
+   lastRunTime = new Date();
+   lastRunTime.setDate(nextRunTime.getDate() - DEFAULT_LOOKBACK_DAYS);
+   logInfo("LAST Run Date Set: [" + lastRunTime + "]");
 
-} 
+ } 
 
-//Persist values through execution of this instance of the workflow.
-vars.lastRunTime = lastRunTime;
-vars.nextRunTime = nextRunTime;
+ //Persist values through execution of this instance of the workflow.
+ vars.lastRunTime = lastRunTime;
+ vars.nextRunTime = nextRunTime;
 
-logInfo("Finished Execution.");
-logInfo("===================");
+ logInfo("Finished Execution.");
+ logInfo("===================");
 ```
 
 ## 다음 비디오

@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform에서 소스를 사용하여 Campaign 데이터 연결
+title: Adobe Experience Platform에서 S3를 소스로 사용하여 Campaign 데이터 연결
 description: Experience Platform의 소스 커넥터를 사용하여 데이터를 수집하여 내보낸 캠페인 로그로 프로필 데이터를 업데이트하는 방법을 알아봅니다.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Experience Platform에서 소스를 사용하여 Campaign 데이터 연결
+# Adobe Experience Platform에서 S3를 소스로 사용하여 Campaign 데이터 연결
 
 Experience Platform의 소스 커넥터를 사용하여 데이터를 수집하여 내보낸 캠페인 로그로 프로필 데이터를 업데이트하는 방법을 알아봅니다.
 
