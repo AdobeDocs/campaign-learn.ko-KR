@@ -6,15 +6,25 @@ kt: 9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
+source-git-commit: 649116ee1e45c8012d5850bf3e9e3c0006ae1aa2
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
 # Experience Platform과 통합 - 개요
 
-두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.
+Campaign과 Experience Cloud 간에 데이터를 공유하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
+
+## 추가 리소스
+
+### 설명서
+
+* [소스 및 대상 시작하기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en#)
+* [실시간 고객 데이터 플랫폼 Adobe](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html)
+* [대상 설명서](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html)
+* [소스 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html)

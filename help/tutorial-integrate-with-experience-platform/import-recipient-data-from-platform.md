@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: User
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Experience Platform에서 수신자 데이터 가져오기 및 이메일 보내기
 

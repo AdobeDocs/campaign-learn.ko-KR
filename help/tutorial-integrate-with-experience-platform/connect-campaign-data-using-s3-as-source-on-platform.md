@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
+exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
-
 
 # Adobe Experience Platform에서 S3를 소스로 사용하여 Campaign 데이터 연결
 
@@ -27,4 +27,3 @@ Experience Platform의 소스 커넥터를 사용하여 데이터를 수집하�
 
 * [캠페인을 대상으로 Experience Platform 연결](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
 * [Adobe Experience Platform에서 캠페인 로그 스키마 및 데이터 세트 만들기](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
-

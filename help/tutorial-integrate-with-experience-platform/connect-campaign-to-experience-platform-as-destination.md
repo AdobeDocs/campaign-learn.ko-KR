@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+exl-id: bdfcf733-dd4b-42d1-a063-2a72f0111cca
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인을 대상으로 Experience Platform 연결
 
