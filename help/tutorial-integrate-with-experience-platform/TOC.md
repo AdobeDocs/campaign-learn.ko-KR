@@ -5,8 +5,8 @@ breadcrumb-title: Experience Platform과 통합
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/overview.html
 source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
