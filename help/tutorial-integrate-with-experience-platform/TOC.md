@@ -2,8 +2,7 @@
 user-guide-title: Experience Platform과 통합
 user-guide-description: 두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.
 breadcrumb-title: Experience Platform과 통합
-breadcrumb-url: /campaign-learn/integrate-with-experience-platform/overview.html
-source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
+source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%

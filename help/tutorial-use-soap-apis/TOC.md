@@ -2,10 +2,9 @@
 user-guide-title: SOAP API 사용
 user-guide-description: Adobe Campaign의 Soap API를 사용하고 고급 배달 워크플로우를 만드는 방법을 알아봅니다.
 breadcrumb-title: SOAP API 사용
-breadcrumb-url: /campaign-learn/use-soap-apis/introduction.html
-source-git-commit: c6c343f3087f91fa79291695f99c5878352e4678
+source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
