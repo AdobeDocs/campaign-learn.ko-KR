@@ -8,9 +8,9 @@ role: Admin, Developer
 level: Experienced
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
 source-git-commit: 649116ee1e45c8012d5850bf3e9e3c0006ae1aa2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Campaign과 Experience Cloud 간에 데이터를 공유하는 방법을 알아�
 
 ### 설명서
 
-* [소스 및 대상 시작하기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en#)
-* [실시간 고객 데이터 플랫폼 Adobe](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html)
-* [대상 설명서](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html)
-* [소스 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html)
+* [소스 및 대상 시작하기](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=ko#)
+* [Adobe 실시간 고객 데이터 플랫폼](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=ko)
+* [대상 설명서](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ko)
+* [소스 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=ko)
