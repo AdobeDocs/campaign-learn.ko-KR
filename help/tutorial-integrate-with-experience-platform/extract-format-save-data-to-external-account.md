@@ -1,5 +1,5 @@
 ---
-title: 내보내기 워크플로우 생성(2부) - 외부 계정에 데이터 추출, 포맷 및 저장
+title: 내보내기 워크플로우 생성(2부) - 외부 계정에 데이터 추출, 포맷, 저장
 description: 내보내기 워크플로우 만들기 자습서의 두 번째 부분에서 내보낼 데이터의 형식을 지정하는 방법과 데이터를 외부 계정에 저장하는 방법을 알아봅니다.
 feature: Data Import/Export, Workflows
 kt: 8160
@@ -11,13 +11,13 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 내보내기 워크플로우 만들기(2부): 외부 계정에 데이터 추출, 서식 지정 및 저장
+# 내보내기 워크플로우 만들기(2부): 외부 계정에 데이터 추출, 서식 지정, 저장
 
 내보내기 워크플로우 만들기 자습서의 두 번째 부분에서 내보낼 데이터의 형식을 지정하는 방법과 데이터를 외부 계정에 저장하는 방법을 알아봅니다.
 
