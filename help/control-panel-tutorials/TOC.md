@@ -7,14 +7,14 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: a3339f32f8ea60dbde9405271b288aafa99e984c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign 컨트롤 패널 - 자습서 {#control-panel}
+# Adobe Campaign 컨트롤 패널 - 튜토리얼 {#control-panel}
 
 + [개요](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/get-started.md)
