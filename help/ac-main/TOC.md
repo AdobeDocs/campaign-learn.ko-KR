@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 93%
 + 데이터 관리 {#data-management}
    + [프로필 가져오기](/help/data-management/import-profiles.md)
    + [데이터 복제](/help/data-management/data-replication.md)
-   + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ko)
 + 다른 솔루션과 연결 {#connect}
    + [Snowflake에서 빅데이터 관리](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
-   + [Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)
 + 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/access-built-in-reports.md)
    + [설명 분석 보고서 생성](/help/reporting/generate-a-descriptive-analysis-report.md)
@@ -87,4 +87,4 @@ ht-degree: 93%
    + [워크플로우 열 지도](/help/monitoring/workflow-heatmap.md)
    + [감사 추적](/help/monitoring/audit-trail.md)
 + 관리 {#administration}
-   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko)
+   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ko)
