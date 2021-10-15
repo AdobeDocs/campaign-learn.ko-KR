@@ -11,9 +11,9 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 ## 다음 비디오
 
-[내보내기 워크플로우 생성(2부) - 외부 계정에 데이터 추출, 포맷 및 저장](extract-format-save-data-to-external-account.md)
+[내보내기 워크플로우 생성(2부) - 외부 계정에 데이터 추출, 포맷, 저장](extract-format-save-data-to-external-account.md)
