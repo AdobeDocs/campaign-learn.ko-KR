@@ -3,15 +3,15 @@ title: 구독한 수신자에게 게재 보내기
 description: 데이터 2개의 세그먼트를 결합하고, 문서 경고 이메일을 만들고, 외부 API에서 받은 데이터를 기반으로 개인화하는 방법을 알아봅니다.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
-thumbnail: 336940.jpg
+thumbnail: 336904.jpg
 doc-type: feature video
 activity: use
 team: DOC
 role: User
 level: Beginner
 exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
-source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
-workflow-type: ht
+source-git-commit: 7da6d4598384a00b1245149e7e08f42ab7ad1c4f
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
