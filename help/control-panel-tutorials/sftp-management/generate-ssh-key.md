@@ -1,7 +1,7 @@
 ---
 title: SSH 키 생성
 description: 터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 8512
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '124'
+exl-id: c759da4a-0f66-4bab-b814-ff87d2ca7531
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---

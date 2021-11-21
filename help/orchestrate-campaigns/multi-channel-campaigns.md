@@ -1,7 +1,7 @@
 ---
 title: 다중 채널 캠페인 만들기
 description: 수신자가 선호하는 채널에 따라 이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인을 만드는 방법을 알아봅니다.
-feature: 워크플로우
+feature: Workflows
 kt: 7794
 thumbnail: 335440.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '92'
+exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 다중 채널 캠페인 만들기
 

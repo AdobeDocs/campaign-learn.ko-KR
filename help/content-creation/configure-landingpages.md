@@ -1,7 +1,7 @@
 ---
 title: 랜딩 페이지 구성
 description: 기본 설정 센터를 만들어 웹 애플리케이션 편집기를 탐색하는 방법을 알아봅니다.
-feature: 랜딩 페이지
+feature: Landing Pages
 kt: 7945
 thumbnail: 333629.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '59'
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---

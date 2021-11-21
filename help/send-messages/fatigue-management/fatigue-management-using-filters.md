@@ -1,7 +1,7 @@
 ---
 title: 사전 정의된 필터를 사용한 피로도 관리
 description: 필터를 사용하여 Adobe Campaign에서 피로도 관리를 구현하는 방법을 알아봅니다.
-feature: 피로도 관리
+feature: Fatigue Management
 kt: 7958
 thumbnail: 333778.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '64'
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---

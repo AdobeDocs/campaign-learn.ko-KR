@@ -1,8 +1,8 @@
 ---
 title: 허용 목록 IP 주소
 description: Campaign 컨트롤 패널을 사용하여 Campaign 인스턴스의 허용 목록에 IP 범위를 추가 및 제거하는 방법을 알아봅니다.
-seo-description: 아래 비디오에서는 IP 주소 범위를 허용 목록에 추가하여 인스턴스에 새 연결을 설정하는 방법을 설명합니다.
-feature: Campaign 컨트롤 패널
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 8515
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '208'
+exl-id: 0d5b1733-e6c4-461f-bd15-743fb664ae74
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '187'
 ht-degree: 100%
 
 ---

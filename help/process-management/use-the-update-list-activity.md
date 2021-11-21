@@ -1,7 +1,7 @@
 ---
 title: 업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기
 description: Adobe Campaign의 목록 개념을 파악하고 워크플로우의 업데이트 목록 활동을 사용하여 목록 만드는 방법을 알아봅니다.
-feature: 워크플로우, 타기팅 활동, 쿼리 편집기
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7840
 thumbnail: 334909.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
-workflow-type: ht
-source-wordcount: '94'
+exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 기본 제공 보고서 액세스
 description: 기본 제공 보고 및 분석을 이해하고 게재 보고서를 생성하는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 kt: 7784
 thumbnail: 334965.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 11b67a60-b9f1-450e-a976-d1cca322a243
 source-git-commit: cbe10b1d024b8ed09cdf495659322b67fa33d37a
-workflow-type: ht
-source-wordcount: '36'
+workflow-type: tm+mt
+source-wordcount: '35'
 ht-degree: 100%
 
 ---

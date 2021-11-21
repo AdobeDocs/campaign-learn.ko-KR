@@ -1,13 +1,14 @@
 ---
 title: GPG 키 관리 - 개요
-description: '지정한  [!DNL Campaign]  인스턴스에 공개/비공개 키 쌍을 생성 및 설치하는 방법을 알아봅니다. '
-feature: Campaign 컨트롤 패널
+description: 지정한  [!DNL Campaign]  인스턴스에 공개/비공개 키 쌍을 생성 및 설치하는 방법을 알아봅니다.
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '103'
+exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

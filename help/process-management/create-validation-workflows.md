@@ -1,7 +1,7 @@
 ---
 title: 유효성 검사 워크플로우 만들기
 description: 다양한 승인 유효성 검사 워크플로우를 구성하는 방법을 알아봅니다.
-feature: 워크플로우, 승인
+feature: Workflows, Approvals
 kt: 7991
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '265'
+workflow-type: tm+mt
+source-wordcount: '263'
 ht-degree: 100%
 
 ---

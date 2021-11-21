@@ -1,7 +1,7 @@
 ---
 title: 캠페인 실행
 description: 캠페인을 실행하고, 이메일 게재를 검토하고, 배달 속성을 확인하는 방법을 알아봅니다.
-feature: 캠페인, 이메일
+feature: Campaigns, Email
 kt: 7786
 thumbnail: 334908.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '36'
+exl-id: 39dcdffe-9e7e-44bf-b820-c32a4b6c1962
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '34'
 ht-degree: 100%
 
 ---
-
 
 # 캠페인 실행
 

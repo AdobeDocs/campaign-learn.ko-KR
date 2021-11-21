@@ -1,7 +1,7 @@
 ---
-title: 'GPG 키를 사용하여 데이터 암호화 '
+title: GPG 키를 사용하여 데이터 암호화
 description: Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 8518
 thumbnail: 36399.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '59'
+exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---

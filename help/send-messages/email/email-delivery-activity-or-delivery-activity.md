@@ -1,14 +1,14 @@
 ---
 title: 이메일 게재 활동과 게재 활동 비교
 description: 이 비디오에서는 게재 템플릿을 구성하고 사용하는 방법을 설명합니다.
-feature: 게재 템플릿
+feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '133'
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: URL 권한 추가
 description: Adobe Campaign 인스턴스에서 외부 URL로 연결을 설정하는 방법을 알아봅니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 8514
 thumbnail: 28149.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '52'
+exl-id: 1f7120d1-12fc-4ebc-82f0-aed6cc01617b
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '50'
 ht-degree: 100%
 
 ---

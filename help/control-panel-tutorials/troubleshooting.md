@@ -1,16 +1,17 @@
 ---
 title: Campaign 컨트롤 패널 문제 해결
 description: Campaign 컨트롤 패널 문제 해결 방법 알아보기
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 8520
 doc-type: article
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
-workflow-type: ht
-source-wordcount: '340'
+exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '338'
 ht-degree: 100%
 
 ---
@@ -53,7 +54,7 @@ Campaign 컨트롤 패널 문제 해결 방법을 알아봅니다.
 ### 유용한 설명서
 
 * [Campaign 컨트롤 패널 살펴보기](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
-* [[!UICONTROL Campaign 컨트롤 패널]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+* [[!UICONTROL Campaign 컨트롤 패널]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 
@@ -65,4 +66,4 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 ### 유용한 설명서 {#helpful-docs}
 
-* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

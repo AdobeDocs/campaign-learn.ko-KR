@@ -9,8 +9,8 @@ activity: use
 team: TM
 exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
 source-git-commit: e6a3f8d3afaa324bc003e7cf3d400d3bfde3ffbd
-workflow-type: ht
-source-wordcount: '25'
+workflow-type: tm+mt
+source-wordcount: '24'
 ht-degree: 100%
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: 크로스채널 캠페인 만들기
 description: 첫 번째 게재에 대한 고객의 상호 작용을 기반으로 이메일 및 DM 게재를 사용한 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
-feature: 워크플로우
+feature: Workflows
 kt: 7798
 thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '93'
+exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
-
 
 # 크로스채널 캠페인 만들기
 
