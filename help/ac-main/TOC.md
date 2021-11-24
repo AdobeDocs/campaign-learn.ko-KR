@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [랜딩 페이지 구성](/help/content-creation/configure-landingpages.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 {#email}
-      + [이메일 게재에 대한 증명을 보내고 확인합니다. ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [이메일 게재에 대한 증명을 보내고 확인합니다.](/help/send-messages/email/send-and-validate-proofs.md)
       + [컨트롤 그룹 사용](/help/send-messages/email/use-control-groups.md)
       + [이메일 배달 문제 해결](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [게재 가능성을 위한 이메일 디자인](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
       + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
    + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
-   + [업데이트 목록 활동을 사용하는 방법](/help/process-management/use-the-update-list-activity.md)
-   + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
       + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [캠페인에 대한 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
