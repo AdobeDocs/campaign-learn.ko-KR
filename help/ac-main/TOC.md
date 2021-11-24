@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + 프로세스 관리 및 자동화{#process-management}
    + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
    + [반복 및 연속 게재 만들기](/help/process-management/recurring-deliveries.md)
-   + [타깃팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
-   + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [승인 관리](/help/process-management/manage-approvals.md)
-   + [업데이트 목록 활동 사용](/help/process-management/use-the-update-list-activity.md)
+   + 타겟팅 워크플로우 {#targeting workflows}
+      + [타깃팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
+      + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
+   + [업데이트 목록 활동을 사용하는 방법](/help/process-management/use-the-update-list-activity.md)
    + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
-   + 승인 유효성 검사 워크플로우 만들기 {#create-validation-workflows}
+      + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [캠페인에 대한 승인 구성](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [게재에 대한 승인 구성](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [워크플로우에서 승인 프로세스 만들기](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + 데이터 관리 {#data-management}
+   + [승인 관리](/help/process-management/manage-approvals.md)
+   + [업데이트 목록 활동 사용](/help/process-management/use-the-update-list-activity.md)
+   + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
    + [스키마 만들기 및 확장](/help/data-management/create-and-extend-a-schema.md)
    + [프로필 가져오기](/help/data-management/import-profiles.md)
    + [데이터 복제](/help/data-management/data-replication.md)
