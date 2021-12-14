@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
+* **[FFDA를 사용하는 API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)**
+
+   *전체 FDA를 사용한 API 스테이징 메커니즘이 작동하는 방식을 알아봅니다.*
+
 * **[스키마 만들기 및 확장](/help/data-management/create-and-extend-a-schema.md)**
 
    *새 스키마를 만들고 기존 스키마를 확장하는 방법을 알아보십시오.*
@@ -33,10 +37,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)**
 
    *두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.*
-
-* **[자습서: 워크플로우에서 SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=ko)**
-
-   *API를 통해 받은 데이터를 기반으로 Adobe Campaign Soap API를 사용하고 고급 배달 워크플로우를 만드는 방법을 알아봅니다.*
 
 
 ## 직원 추천
