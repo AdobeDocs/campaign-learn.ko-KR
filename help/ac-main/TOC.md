@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 �
 breadcrumb-title: 튜토리얼
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '365'
+ht-degree: 100%
 
 ---
 
@@ -72,13 +72,13 @@ ht-degree: 0%
    + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
       + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [캠페인에 대한 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [게재에 대한 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [워크플로우에서 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [캠페인 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [게재에 대한 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [워크플로우에 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + 데이터 관리 {#data-management}
    + [업데이트 목록 활동 사용](/help/process-management/use-the-update-list-activity.md)
    + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
-   + [스키마 만들기 및 확장](/help/data-management/create-and-extend-a-schema.md)
+   + [스키마 만들고 확장하기](/help/data-management/create-and-extend-a-schema.md)
    + [프로필 가져오기](/help/data-management/import-profiles.md)
    + [데이터 복제](/help/data-management/data-replication.md)
    + [API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)

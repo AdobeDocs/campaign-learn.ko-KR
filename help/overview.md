@@ -8,8 +8,8 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '388'
+ht-degree: 96%
 
 ---
 
@@ -30,9 +30,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
    *전체 FDA를 사용한 API 스테이징 메커니즘이 작동하는 방식을 알아봅니다.*
 
-* **[스키마 만들기 및 확장](/help/data-management/create-and-extend-a-schema.md)**
+* **[스키마 만들고 확장하기](/help/data-management/create-and-extend-a-schema.md)**
 
-   *새 스키마를 만들고 기존 스키마를 확장하는 방법을 알아보십시오.*
+   *새 스키마를 만들고 기존 스키마를 확장하는 방법을 알아봅니다.*
 
 * **[Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)**
 
