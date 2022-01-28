@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e794119c4f3e8d455c7300b23ca75350e28154
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
+* **[데이터 소스 변경](/help/data-management/change-data-source.md)**
+
+   *데이터 소스 변경 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경하여 FDA, FFDA 및 로컬 데이터베이스와 같은 다양한 데이터 소스에서 데이터를 유연하게 관리하는 방법을 알아봅니다.*
+
+* **[워크플로우를 통한 데이터 관리의 기본 사항](/help/data-management/data-management-fundamentals.md)**
+
+   *타겟팅 차원 및 작업 표가 무엇이고 Adobe Campaign에서 다른 데이터 소스에서 데이터를 관리하는 방법을 알아봅니다.*
+
 * **[FFDA를 사용하는 API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)**
 
    *전체 FDA를 사용한 API 스테이징 메커니즘이 작동하는 방식을 알아봅니다.*
-
-* **[스키마 만들고 확장하기](/help/data-management/create-and-extend-a-schema.md)**
-
-   *새 스키마를 만들고 기존 스키마를 확장하는 방법을 알아봅니다.*
-
-* **[Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)**
-
-   *두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.*
-
 
 ## 직원 추천
 
@@ -103,6 +102,4 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 </table>
 
-## 추가 리소스
-
-* [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko)
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko) 자세한 내용은 이 기능을 참조하십시오.
