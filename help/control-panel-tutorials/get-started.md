@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 94%
 
 ---
 
@@ -55,6 +55,4 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-## 추가 리소스
-
-* [Campaign 컨트롤 패널 도움말 센터](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+다음 방문 [Campaign 컨트롤 패널 도움말 센터](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko) 자세한 내용은 이 기능을 참조하십시오.

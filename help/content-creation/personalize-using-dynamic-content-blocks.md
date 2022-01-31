@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하여 수
 다이내믹 콘텐츠 블록을 만드는 방법과 이 블록을 사용하여 이메일 게재의 콘텐츠를 개인화하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
-
-## 추가 리소스
-
-* [개인화 필드를 사용하여 이메일 개인화](/help/content-creation/personalize-emails-using-personalization-fields.md)
-* [조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

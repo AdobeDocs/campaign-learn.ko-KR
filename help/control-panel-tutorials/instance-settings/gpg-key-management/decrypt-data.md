@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 exl-id: ee27a487-17a4-4e75-9cda-2838943273eb
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,3 @@ Campaign 컨트롤 패널을 사용하면 공개/개인 키 쌍을 사용하여 
 공개 키를 만들고 인바운드 데이터 암호를 해독하기 위해 [!DNL Campaign] 인스턴스로 가져오고 설치하는 방법을 배웁니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
-
-## 추가 리소스
-
-* [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko)

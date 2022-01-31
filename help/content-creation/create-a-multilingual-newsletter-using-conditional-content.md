@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,3 @@ ht-degree: 100%
 다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
-
-## 추가 리소스
-
-* [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [개인화 필드를 사용하여 이메일 개인화](/help/content-creation/personalize-emails-using-personalization-fields.md)

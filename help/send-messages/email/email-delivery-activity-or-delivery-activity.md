@@ -6,9 +6,9 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -21,10 +21,3 @@ ht-degree: 100%
 이 비디오에서는 이메일 게재 템플릿을 배포하는 방법을 설명합니다. 이메일 게재와 게재 워크플로우의 차이점을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## 추가 리소스 {#additional-resources}
-
-* [템플릿 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko)
-* [게재 템플릿 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=ko)
-* [대상 매핑 선택](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=ko)
-* [템플릿에서 게재 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=ko)

@@ -6,10 +6,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,3 @@ GPG(GnuPG)는 비대칭 개별 키 쌍을 사용하여 메시지를 암호화합
 1. [데이터 암호화를 위한 GPG 키 생성 및 설치](./generate-and-install-gpg-keys.md)
 2. [GPG 키를 사용하여 데이터 암호화](./use-a-gpg-key-to-encrypt-data.md)
 3. [데이터 암호 해독](./decrypt-data.md)
-
-## 추가 리소스
-
-* [GPG 키 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko)

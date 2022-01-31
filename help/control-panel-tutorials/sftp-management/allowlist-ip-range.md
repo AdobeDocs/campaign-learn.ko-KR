@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5a6b04d9-7c19-442f-b6cc-cab92720853d
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,3 @@ IP 주소 범위를 허용 목록에 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
-## 추가 리소스
-
-* [IP 범위를 허용 목록에 추가하기(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ko)

@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
@@ -23,7 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-## 추가 리소스
-
-* [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko)
+자세한 내용은 [제품 설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko) 추가 정보.

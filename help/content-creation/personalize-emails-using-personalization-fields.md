@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ ht-degree: 100%
 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
-
-## 추가 리소스
-
-* [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

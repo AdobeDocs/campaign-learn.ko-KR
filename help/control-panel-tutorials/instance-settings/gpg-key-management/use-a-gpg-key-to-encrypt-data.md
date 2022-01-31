@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## 추가 리소스
-
-* [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko)
