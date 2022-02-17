@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 88%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-자세한 내용은 [제품 설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko) 추가 정보.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ko)를 참조하세요.
