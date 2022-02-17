@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
