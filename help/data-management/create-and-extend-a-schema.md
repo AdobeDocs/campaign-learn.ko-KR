@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Beginner
 exl-id: 40e5f5a3-e267-4a65-8590-32958bc67764
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 
