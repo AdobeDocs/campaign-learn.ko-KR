@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 91%
 
 ---
 
@@ -19,13 +19,17 @@ ht-degree: 100%
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 >[!INFO]
-> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
+> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
 
 >[!NOTE]
 > Campaign v8은 현재 관리 Cloud Service로만 사용할 수 있으며 온-프레미스 또는 하이브리드 환경에 배포할 수 없습니다. 기존 Campaign Classic v7 환경에서 마이그레이션은 아직 사용할 수 없습니다.
 >두 버전의 차이점에 대한 자세한 내용은 [Classic v7 to V8 제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ko)를 참조하십시오. 설명 비디오를 보려면 [Campaign Classic V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko) 섹션도 참조하십시오.
 
 ## 새로운 기능
+
+* **[Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+
+*Adobe Campaign을 Adobe Experience Manager과 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산 및 양식을 관리할 수 있는 방법을 알아봅니다.*
 
 * **[데이터 소스 변경](/help/data-management/change-data-source.md)**
 
@@ -35,9 +39,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
    *타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.*
 
-* **[FFDA를 사용한 API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)**
-
-   *Full FDA를 사용한 API 스테이징 메커니즘의 작동 원리를 알아봅니다.*
 
 ## 직원 추천
 
