@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+source-git-commit: db3716cb59214c4fb26a564451cb27b02c04ff12
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 98%
+source-wordcount: '370'
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 98%
    + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ko)
 + 다른 솔루션과 연결 {#connect}
    + [Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)
-   + Experience Manager과 통합 {#AEM}
    + [Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
 + 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/access-built-in-reports.md)
