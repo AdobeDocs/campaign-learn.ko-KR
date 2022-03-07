@@ -1,6 +1,6 @@
 ---
-title: Campaign에 Experience Manager 컨텐츠 승인 및 게시
-description: Experience Manager에서 뉴스레터를 만드는 방법과 Campaign에 뉴스레터를 승인하고 게시하는 방법을 알아봅니다.
+title: Campaign에서 Experience Manager 콘텐츠 승인 및 게시
+description: Experience Manager에서 뉴스레터를 만드는 방법과 Campaign에서 이 뉴스레터를 승인하고 게시하는 방법을 알아봅니다.
 feature: Experience Manager Integration
 kt: 9597
 thumbnail: 340678.jpg
@@ -10,14 +10,14 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Campaign에 Experience Manager 페이지 승인 및 게시
+# Campaign에서 Experience Manager 페이지 승인 및 게시
 
-Experience Manager에서 뉴스레터를 만드는 방법과 Campaign에 뉴스레터를 승인하고 게시하는 방법을 알아봅니다.
+Experience Manager에서 뉴스레터를 만드는 방법과 Campaign에서 이 뉴스레터를 승인하고 게시하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12)
