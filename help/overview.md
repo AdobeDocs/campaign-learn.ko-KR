@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '432'
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+* **[Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
 
-   *Adobe Campaign을 Adobe Experience Manager과 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산 및 양식을 관리할 수 있는 방법을 알아봅니다.*
+   *Adobe Campaign을 Adobe Experience Manager와 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산, 양식을 관리할 수 있는 방법을 알아봅니다.*
 
 * **[데이터 소스 변경](/help/data-management/change-data-source.md)**
 
