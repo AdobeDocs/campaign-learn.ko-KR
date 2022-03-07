@@ -1,6 +1,6 @@
 ---
 title: Experience Manager 통합을 위한 Campaign 구성
-description: 찾을 중요한 설정과 피할 수 있는 '과제'를 포함하여 Experience Manager과 Campaign 간의 통합을 설정하는 방법을 알아봅니다.
+description: Experience Manager와 Campaign 간 통합을 설정하는 방법을 알아봅니다. 확인해야 하는 중요한 설정과 피해야 하는 '실수' 등을 살펴봅니다.
 feature: Experience Manager Integration
 kt: 9594
 thumbnail: 340121.jpg
@@ -10,14 +10,14 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Experience Manager 통합을 위한 Campaign 구성
 
-찾을 중요한 설정과 피할 수 있는 &#39;과제&#39;를 포함하여 Experience Manager과 Campaign 간의 통합을 설정하는 방법을 알아봅니다.
+Experience Manager와 Campaign 간 통합을 설정하는 방법을 알아봅니다. 확인해야 하는 중요한 설정과 피해야 하는 &#39;실수&#39; 등을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12)
