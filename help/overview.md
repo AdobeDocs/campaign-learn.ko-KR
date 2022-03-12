@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
+* **[Adobe Target과 통합](/help/connect/target-integration.md)
+
+   *Adobe Target에서 제공하는 동적 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
+
+* **[Adobe Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
 
    *Adobe Campaign을 Adobe Experience Manager와 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산, 양식을 관리할 수 있는 방법을 알아봅니다.*
 
 * **[데이터 소스 변경](/help/data-management/change-data-source.md)**
 
    *[데이터 소스 변경] 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경함으로써 FDA, FFDA, 로컬 데이터베이스 등 다양한 데이터 소스 전체에 걸쳐 데이터를 유연하게 관리하는 방법을 알아봅니다.*
-
-* **[워크플로우를 통한 데이터 관리의 기본 사항](/help/data-management/data-management-fundamentals.md)**
-
-   *타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.*
 
 
 ## 직원 추천
@@ -97,10 +97,36 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>워크플로우에서 descriptive analysis report 를 생성하는 방법을 알아봅니다.</em>
+    <em>워크플로우에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="워크플로우를 통한 데이터 관리의 기본 사항" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>워크플로우를 통한 데이터 관리의 기본 사항</strong>
+    </a>
+    </div>
+    <p>
+    <em>타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="FFDA를 사용한 API 스테이징 메커니즘" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>FFDA를 사용한 API 스테이징 메커니즘</strong>
+    </a>
+    </div>
+    <p>
+    <em>Full FDA를 사용한 API 스테이징 메커니즘의 작동 원리를 알아봅니다.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko)를 참조하세요.

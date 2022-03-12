@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 4f8599d375d98195b56bbb5d99e65243dbcdca94
-workflow-type: ht
-source-wordcount: '382'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '389'
+ht-degree: 95%
 
 ---
 
@@ -86,9 +86,10 @@ ht-degree: 100%
    + [API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)
    + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ko)
 + 다른 솔루션과 연결 {#connect}
-   + [Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)
-   + [Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)
-   + [Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
+   + [Adobe Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)
+   + [Adobe Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)
+   + [Adobe Target과 통합](/help/connect/target-integration.md)
+   + [Microsoft Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
 + 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/access-built-in-reports.md)
    + [설명 분석 보고서 생성](/help/reporting/generate-a-descriptive-analysis-report.md)
