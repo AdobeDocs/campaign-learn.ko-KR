@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 95%
@@ -27,7 +27,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Adobe Target과 통합](/help/connect/target-integration.md)
+* **[Adobe Target과 통합](/help/connect/target-integration.md)**
 
    *Adobe Target에서 제공하는 동적 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
 
@@ -65,7 +65,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>이메일 게재 만들기 및 디자인</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>이메일 게재 만들기 프로세스를 파악하고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 살펴봅니다.
 </em>
