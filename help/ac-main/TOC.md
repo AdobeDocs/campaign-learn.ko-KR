@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 95%
    + [이벤트가 트리거된 캠페인 만들기](/help/get-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
-   + [워크플로우에서 프로필 타기팅](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [프로필 가져오기](/help/profile-management/import-profiles.md)
+   + [워크플로우에서 프로필 타겟팅하기](/help/profile-management/target-profiles-in-a-workflow.md)
 + 캠페인 오케스트레이션 {#campaign-orchestration}
    + [캠페인 실행](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [멀티 및 크로스 캠페인 소개](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
    + [반복 및 연속 게재 만들기](/help/process-management/recurring-deliveries.md)
    + 타겟팅 워크플로우 {#targeting-workflows}
-      + [타깃팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
+      + [타기팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
       + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
       + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
    + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}

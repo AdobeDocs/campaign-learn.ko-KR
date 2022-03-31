@@ -3,19 +3,19 @@ title: 게재 템플릿 구성
 description: 임시 게재용 템플릿을 구성하는 방법을 알아봅니다.
 feature: Delivery Templates
 kt: 7962
-thumbnail: 24066.jpg
+thumbnail: 342082.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Admin
 level: Beginner
+exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 hide: true
 hidefromtoc: true
-exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 다음 비디오에서는 임시 게재용 템플릿을 구성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12)
