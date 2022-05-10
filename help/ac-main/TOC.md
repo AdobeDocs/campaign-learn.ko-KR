@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '392'
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [API 스테이징 메커니즘](/help/data-management/api-staging-mechanism.md)
    + [자습서: SOAP API 사용](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ko)
 + 다른 솔루션과 연결 {#connect}
-   + [Adobe Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)
+   + [Adobe Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)
    + [Adobe Experience Platform과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ko)
    + [Adobe Target과 통합](/help/connect/target-integration.md)
    + [Microsoft Dynamics 365와 통합](/help/connect/dynamics365-integration.md)
