@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[Adobe Target과 통합](/help/connect/target-integration.md)**
 
-   *Adobe Target에서 제공하는 동적 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
+   *Adobe Target에서 제공하는 다이내믹 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
 
-* **[Adobe Experience Manager과 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
+* **[Adobe Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
 
    *Adobe Campaign을 Adobe Experience Manager와 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산, 양식을 관리할 수 있는 방법을 알아봅니다.*
 
@@ -106,7 +106,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>워크플로우를 통한 데이터 관리의 기본 사항</strong>
+    <strong>워크플로우를 통한 데이터 관리의 기본 사항</strong>
     </a>
     </div>
     <p>
@@ -119,7 +119,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">
-    <strong>FFDA를 사용한 API 스테이징 메커니즘</strong>
+    <strong>FFDA를 사용한 API 스테이징 메커니즘</strong>
     </a>
     </div>
     <p>
