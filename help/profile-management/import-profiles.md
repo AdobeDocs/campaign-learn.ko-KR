@@ -1,21 +1,21 @@
 ---
 title: 프로필 가져오기
-description: 프로필을 Adobe Campaign으로 가져오는 방법을 알아봅니다. (60~160자 사이)
+description: Adobe Campaign으로 프로필을 가져오는 방법을 알아봅니다. (60~160자 사이)
 feature: Profiles
 role: Developer
 level: Beginner
 kt: 7968
 thumbnail: 342085.jpg
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 30d654f3-086e-4e67-b835-d6f263540618
+source-git-commit: d00df6601e31a3c946be9d03a22e5bd967c13435
+workflow-type: ht
+source-wordcount: '23'
+ht-degree: 100%
 
 ---
 
-
 # 프로필 가져오기
 
-프로필을 Adobe Campaign으로 가져오는 방법을 알아봅니다.
+Adobe Campaign으로 프로필을 가져오는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on)
