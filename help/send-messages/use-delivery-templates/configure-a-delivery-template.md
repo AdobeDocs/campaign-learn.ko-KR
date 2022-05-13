@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +26,7 @@ ht-degree: 100%
 * 유형화
 * 보낸 사람 및 회신 주소
 * 기본 개인화 블록
-* 미러 페이지 및 구독 취소 링크
+* 미러 페이지 및 구독 취소 링크 링크
 * 콘텐츠, 회사 로고 또는 서명
 * 자원 유효성, 일괄 처리 수량 등과 같은 기타 게재 속성
 

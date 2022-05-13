@@ -10,12 +10,13 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
-source-git-commit: f7cebee9b5425f7d086bb316d73b20a0ee9e2388
-workflow-type: ht
+source-git-commit: 8cf92efcbabad88a239863dc4bdb25ed63f66f7b
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
 ---
+
 
 # 타기팅 워크플로우 만들기
 
