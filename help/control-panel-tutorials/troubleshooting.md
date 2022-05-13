@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -24,8 +24,8 @@ Campaign 컨트롤 패널 문제 해결 방법을 알아봅니다.
 
 ### 증상: Experience Cloud에 로그인할 수 없음
 
-**해결 방법:**
-사용자는 IMS 조직 ID(xxx)를 찾아야 합니다. 관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 &quot;Campaign-xxx-Admins&quot;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 사용자로 추가해야 할 수 있습니다.
+**방법:**
+사용자는 조직의 ID(xxx)를 찾아야 합니다. 관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 &quot;Campaign-xxx-Admins&quot;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 사용자로 추가해야 할 수 있습니다.
 
 ### 증상: Experience Cloud 홈에서 [!UICONTROL Campaign 컨트롤 패널]로 액세스하는 링크가 사용자에게 표시되지 않음
 
@@ -45,7 +45,7 @@ Campaign 컨트롤 패널 문제 해결 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*IMS 조직 ID 확인(00:26)*
+*조직의 ID 확인(00:26)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

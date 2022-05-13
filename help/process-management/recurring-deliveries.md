@@ -1,22 +1,23 @@
 ---
-title: 반복 및 연속 이메일 캠페인을 설정하는 방법
+title: 반복 및 연속 이메일 게재 만들기
 description: 반복 및 연속 게재를 설정하는 방법을 알아보고 두 접근 방식 간의 차이점을 이해합니다.
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# 반복 및 연속 이메일 캠페인을 설정하는 방법
+# 반복 및 연속 이메일 게재 만들기
 
 이 튜토리얼에서는 반복 및 연속 게재를 설정하는 방법과 두 접근 방식 간의 차이점을 설명합니다.
 
@@ -38,10 +39,10 @@ ht-degree: 100%
 
 이 비디오에서는 반복 게재 및 예약 활동을 구성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## 연속 게재를 설정하는 방법 {#how-to-set-up-a-continuous-delivery}
 
 이 비디오에서는 증분 쿼리를 사용하여 연속 게재를 구성하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)

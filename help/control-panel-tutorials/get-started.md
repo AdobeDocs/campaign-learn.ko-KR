@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 시작하기 전에 다음 사전 요구 사항을 완료하십시오.
 
-### [!DNL IMS Org ID] 확인 
+### 조직의 ID를 확인합니다
 
-다음 비디오에서는 인스턴스의 [!DNL IMS org ID]를 조회할 수 있는 위치를 설명합니다.
+다음 비디오에서는 조직의 ID를 조회할 수 있는 위치를 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
