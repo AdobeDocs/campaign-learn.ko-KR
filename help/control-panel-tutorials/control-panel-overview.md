@@ -10,16 +10,18 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Campaign 컨트롤 패널 - 개요
 
 Campaign 컨트롤 패널을 통해 Adobe Campaign 관리자는 주요 에셋을 모니터링하고 개별 또는 허용 목록 IP 주소별 SFTP 스토리지 관리와 같은 관리 작업을 수행할 수 있습니다.
+
+자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ko) 최신 제품 릴리스에 대한 정보입니다.
 
 ## 직원 추천
 

@@ -6,9 +6,9 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: a3339f32f8ea60dbde9405271b288aafa99e984c
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Adobe Campaign 컨트롤 패널 - 튜토리얼 {#control-panel}
 
-+ [개요](/help/control-panel-tutorials/control-panel-overview.md)
++ [Campaign 컨트롤 패널](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/get-started.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
