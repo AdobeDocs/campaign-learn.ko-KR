@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Adobe Target과 통합](/help/connect/target-integration.md)**
+* **[SMS 소개](/help/tutorial-sms/introduction-to-sms.md)**:
+   *SMS 작동 방식과 Adobe Campaign에서 SMS를 보내는 방법을 알아봅니다.*
 
-   *Adobe Target에서 제공하는 다이내믹 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
+* **[표준 SMPP 공급자에 대한 SMS 계정 설정](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Adobe Experience Manager와 통합](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ko)**
+   *SMS 커넥터를 SMPP 공급자에게 적용하는 방법을 알아봅니다. SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창 및 TLS를 사용한 암호화를 설정합니다.*
 
-   *Adobe Campaign을 Adobe Experience Manager와 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산, 양식을 관리할 수 있는 방법을 알아봅니다.*
+* **[SMPP 공급자에 SMS 커넥터 조정](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[데이터 소스 변경](/help/data-management/change-data-source.md)**
+   *SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창 및 암호화를 TLS로 설정하는 방법을 알아봅니다.*
 
-   *[데이터 소스 변경] 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경함으로써 FDA, FFDA, 로컬 데이터베이스 등 다양한 데이터 소스 전체에 걸쳐 데이터를 유연하게 관리하는 방법을 알아봅니다.*
+* **[이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다.*
 
 ## 직원 추천
 
