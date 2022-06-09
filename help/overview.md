@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+source-git-commit: 99904d75300064381bdac3245b290de82990d300
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 75%
@@ -27,7 +27,8 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[SMS 소개](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[SMS 소개](/help/tutorial-sms/introduction-to-sms.md)**
+
    *SMS 작동 방식과 Adobe Campaign에서 SMS를 보내는 방법을 알아봅니다.*
 
 * **[표준 SMPP 공급자에 대한 SMS 계정 설정](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
