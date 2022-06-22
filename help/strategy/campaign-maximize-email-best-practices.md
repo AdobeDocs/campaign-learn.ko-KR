@@ -1,11 +1,12 @@
 ---
-title: 이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다
-description: '이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다. '
+title: 이메일 ROI 극대화 및 구독자 재참여 모범 사례 알아보기
+description: 이메일 ROI를 극대화하는 방법과 구독자 재참여를 위한 모범 사례를 알아봅니다. 구독자의 참여도를 개선하는 전략과 이메일 캠페인의 전반적인 성공 여부를 살펴봅니다.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ ROI를 극대화하기 위한 4가지 주요 전략은 다음과 같습니다.
 * **테스트 및 학습** - 좋은 테스트 계획은 여러분의 노력이 원하는 효과를 가지고 있는지 확인하는 데 중요합니다. 작동 중인 내용과 그렇지 않은 항목을 학습하고 그에 따라 반복하십시오.
 
 이 문서의 요약과 재참여 전략 구현에 대한 라이브 데모를 살펴보려면 [웨비나](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Adobe Analytics Mobile Apps에서 전략 및 사고 리더십에 대해 자세히 알아보십시오 [고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브.
