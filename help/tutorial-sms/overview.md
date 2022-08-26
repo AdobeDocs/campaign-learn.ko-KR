@@ -4,9 +4,9 @@ description: SMTP 공급자에 대한 SMS 계정을 구성하는 방법 및 구�
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 88%
 
 * **[SMPP 프로토콜 심층 분석 및 문제 해결](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *SMPP 연결 설정 방법과 SMPP가 PDU를 통해 데이터를 교환하는 방법을 알아봅니다. 연결 문제를 해결하는 방법을 이해합니다.*
+   *SMPP 연결 설정 방법과 SMPP가 PDU를 통해 데이터를 교환하는 방법을 알아봅니다. 문제 해결 방법을 이해합니다.*
 
 >[!NOTE]
 >
