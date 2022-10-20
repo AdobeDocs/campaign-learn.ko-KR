@@ -4,10 +4,11 @@ description: SMS 설정을 미세 조정하여 연결 제한을 처리하고, �
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
+last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+source-git-commit: 285afc4062984320423816e8364f863973834f71
 workflow-type: ht
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
