@@ -4,9 +4,10 @@ description: SMS 정의 및 Campaign에서 SMS를 처리하는 방법 알아보�
 feature: SMS
 thumbnail: 340957.jpg
 kt: 9743
+last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
+source-git-commit: 285afc4062984320423816e8364f863973834f71
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
