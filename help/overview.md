@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 >
 >Classic v7에서 V8로 전환하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko)를 참조하세요.
 
+<div id="whats-new-section">
+
 ## 새로운 기능
 
 * **[SMPP 프로토콜 심층 분석 및 문제 해결](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=ko)**
@@ -39,6 +41,17 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 직원 추천
 
@@ -128,5 +141,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
 </tr>
 </table>
+
+</div>
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko)를 참조하세요.
