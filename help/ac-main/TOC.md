@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
 source-git-commit: 411342d146310bf982d280d3757d7797f645bf17
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '424'
+ht-degree: 100%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 0%
       + [캠페인 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [게재에 대한 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [워크플로우에 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
-   + [동료로부터 학습 - 워크플로우 우수 사례](/help/process-management/workflow-best-practices-for-marketers.md)
+   + [동료로부터 학습 - 워크플로우 모범 사례](/help/process-management/workflow-best-practices-for-marketers.md)
 + 데이터 관리 {#data-management}
    + [워크플로우를 통한 데이터 관리의 기본 사항](/help/data-management/data-management-fundamentals.md)
    + [데이터 소스 변경](/help/data-management/change-data-source.md)
