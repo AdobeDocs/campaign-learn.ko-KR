@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 11778
 last-substantial-update: 20230130
-source-git-commit: 6467bac851fe5805dce2a20c3df7a186ab929e41
+source-git-commit: 34175eeac8c0a6f74f85de2c6188e1edf9034616
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 0%
@@ -28,14 +28,6 @@ ht-degree: 0%
 Adobe Campaign은 다양한 방식으로 커뮤니케이션을 실행 및 오케스트레이션할 수 있는 유연한 도구입니다. [고객의 절반 가량이 구매 여정 동안 3~5개의 채널을 사용합니다](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). 따라서 이러한 채널을 미리 사용하는 방법을 이해하고 계획을 세우는 것은 플랫폼의 잠재력을 최대한 실감하고 고객에게 공감하는 데 중요합니다.
 
 ## 2. 고객 데이터를 문서화하고 이해
-
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
-
-"A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
-
-"Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
-
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
 
 다음 [Hubspot 연구](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), 세그먼트화된 캠페인이 14.31% 높은 공개 비율을 보였으며, 세그먼트화되지 않은 캠페인보다 101% 더 많은 클릭 수를 기록했습니다. 캠페인을 시작하기 전에 대상을 세그먼트화한 이메일 마케터는 매출이 최대 760%까지 증가했다고 발표했습니다.
 
