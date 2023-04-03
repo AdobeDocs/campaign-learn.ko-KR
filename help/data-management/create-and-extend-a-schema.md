@@ -9,7 +9,7 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 40e5f5a3-e267-4a65-8590-32958bc67764
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 스키마를 만드는 방법과 기존 스키마를 확장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/337939?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/337939?quality=12&learn=on)
