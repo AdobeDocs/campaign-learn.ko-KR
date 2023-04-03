@@ -10,9 +10,9 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
-source-git-commit: 8cf92efcbabad88a239863dc4bdb25ed63f66f7b
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ Adobe Campaign은 워크플로우를 사용하여 타기팅 캠페인을 수행�
 
 타기팅 워크플로우를 사용하여 여러 게재 타깃을 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on)
