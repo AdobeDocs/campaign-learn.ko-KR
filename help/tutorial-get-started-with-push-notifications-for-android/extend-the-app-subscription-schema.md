@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 앱 구독] 스키마를 확장하여 [!DNL Campaign]이 모바일 앱에서 받은 개인화 값을 저장하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
 
 **다음 단계**
 
