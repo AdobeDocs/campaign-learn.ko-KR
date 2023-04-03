@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 수신자가 선호하는 채널에 따라 이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on)
