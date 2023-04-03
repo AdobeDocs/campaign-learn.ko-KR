@@ -8,7 +8,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Campaign과 Experience Cloud 간에 데이터를 공유하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on)
 
 ## 추가 리소스
 
