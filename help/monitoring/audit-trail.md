@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
@@ -27,6 +27,6 @@ ht-degree: 100%
 
 감사 추적 로그에 액세스하는 방법과 구성할 수 있는 설정을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on)
 
 자세한 내용은 [감사 추적 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko)에서 확인할 수 있습니다.
