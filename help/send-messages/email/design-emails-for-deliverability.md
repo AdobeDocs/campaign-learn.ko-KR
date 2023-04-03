@@ -9,8 +9,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 이메일 게재에 게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on)
 
 ## 추가 리소스
 
