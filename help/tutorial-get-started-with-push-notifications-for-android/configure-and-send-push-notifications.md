@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: bef60865-9d83-46a5-ad2f-77095cb7c6a2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Android™ 애플리케이션 사용자에게 [!DNL push] 알림을 구성하고 전송하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
 **이전 단계**
 
