@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 내보내기 워크플로우 만들기 자습서의 첫 번째 부분에서 Experience Platform 세그먼트에서 만든 수신자 목록에 대해 마지막으로 수정한 날짜를 찾는 워크플로우를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on)
 
 ## 자산
 
