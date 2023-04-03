@@ -9,7 +9,7 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-source-git-commit: 0124923f8aad93ffce48e9c40e6e25beb785e1f3
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 [데이터 소스 변경] 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경함으로써 FDA, FFDA, 로컬 데이터베이스 등 다양한 데이터 소스 전체에 걸쳐 데이터를 유연하게 관리하는 방법을 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=ko#change-data-source-activity)를 참조하세요.
