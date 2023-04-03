@@ -10,7 +10,7 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Experience Platform의 소스 커넥터를 사용하여 데이터를 수집하여 내보낸 캠페인 로그로 프로필 데이터를 업데이트하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on)
