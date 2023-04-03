@@ -9,7 +9,7 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: b1385d5e-0670-47d3-9c5e-382d6d08b7d0
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Campaign V8에서 사용하는 데이터베이스, 데이터를 복제하는 이유, 복제하는 데이터의 기준 및 복제 프로세스의 작동 방식을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on)
