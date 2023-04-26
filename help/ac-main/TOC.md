@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 경험을 디자인할 수 있고 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 등을 위한 환경이 제공됩니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '434'
 ht-degree: 97%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [AMP를 사용하여 대화형 이메일 콘텐츠 정의](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [랜딩 페이지 구성](/help/content-creation/configure-landingpages.md)
+   + [설문 조사 만들기](/help/content-creation/create-a-survey.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 {#email}
       + [이메일 게재에 대한 증명을 보내고 확인합니다.](/help/send-messages/email/send-and-validate-proofs.md)
@@ -97,7 +98,7 @@ ht-degree: 97%
    + [워크플로우 열 지도](/help/monitoring/workflow-heatmap.md)
    + [감사 추적](/help/monitoring/audit-trail.md)
 + 관리 {#administration}
-   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
+   + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공에 대한 10가지 우수 사례](/help/strategy/10-best-practices-for-marketers.md)
