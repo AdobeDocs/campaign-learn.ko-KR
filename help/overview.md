@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,11 +33,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
    *SMPP 연결 설정 방법과 SMPP가 PDU를 통해 데이터를 교환하는 방법을 알아봅니다. 문제 해결 방법을 이해합니다.*
 
-* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ko){target=&quot;_blank&quot;}**
+* **[컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ko){target="_blank"}**
 
    *인스턴스의 데이터베이스나 워크플로우 문제를 방지하기 위해 워크플로우의 임시 스토리지 사용을 모니터링하는 방법 및 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
+* **[컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target="_blank"}**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
 

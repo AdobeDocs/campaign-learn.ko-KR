@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-25T00:00:00Z
 jira: KT-11925
 thumbnail: 3415810.jpeg
-source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
+exl-id: 13813651-0a6f-40b6-9ea3-61f752715ea0
+source-git-commit: 9b70faae5d3375959579fc42e296804b62af4542
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
-
 
 # 설문 조사 만들기
 
