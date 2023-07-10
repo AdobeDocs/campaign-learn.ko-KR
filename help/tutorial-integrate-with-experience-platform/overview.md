@@ -2,14 +2,14 @@
 title: Experience Platform과 통합 - 개요
 description: 두 솔루션 간에 통신할 수 있도록 Campaign 및 Experience Cloud 데이터를 가져오고 내보내는 방법을 알아봅니다.
 feature: API
-kt: 9094
+jira: KT-9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
