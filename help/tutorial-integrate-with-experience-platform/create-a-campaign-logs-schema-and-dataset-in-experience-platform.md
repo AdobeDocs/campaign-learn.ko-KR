@@ -2,7 +2,7 @@
 title: Adobe Experience Platform에서 캠페인 로그 스키마 및 데이터 세트 만들기
 description: Campaign 로그 데이터를 Platform에 수집하는 데 사용할 수 있는 Adobe Experience Platform에서 스키마 및 데이터 세트를 만드는 방법을 알아봅니다.
 feature: Data Import/Export, Data Management
-kt: 8161
+jira: KT-8161
 thumbnail: 336903.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
