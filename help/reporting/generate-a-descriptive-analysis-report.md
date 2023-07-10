@@ -2,7 +2,7 @@
 title: 설명 분석 보고서 생성
 description: Adobe Campaign V8의 작업 과정에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.
 feature: Reporting
-kt: 7841
+jira: KT-7841
 thumbnail: 333994.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: d627a665-732a-4d75-8b50-67c9efc4e7cd
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 
