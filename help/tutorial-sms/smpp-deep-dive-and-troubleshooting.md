@@ -3,11 +3,11 @@ title: SMPP 프로토콜 심층 분석 및 문제 해결
 description: SMPP 연결 설정 방법과 SMPP가 PDU를 통해 데이터를 교환하는 방법을 알아봅니다. 문제 해결 방법을 이해합니다.
 feature: SMS
 thumbnail: 346489.jpg
-kt: 9739
+jira: KT-9739
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
