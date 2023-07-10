@@ -2,15 +2,15 @@
 title: 게재 가능성을 위한 이메일 디자인
 description: 이메일 게재에 게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.
 feature: Email, Deliverability
-kt: 7849
+jira: KT-7849
 thumbnail: 333471.jpg
 doc-type: feature video
 team: WWFRE
 role: User
 level: Beginner
 exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
