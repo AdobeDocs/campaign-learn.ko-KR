@@ -2,14 +2,14 @@
 title: Experience Manager와 통합 - 개요
 description: Adobe Campaign을 Adobe Experience Manager와 연결하여 Experience Manager에서 이메일 게재 템플릿, 자산, 양식을 관리할 수 있는 방법을 알아봅니다.
 feature: Experience Manager Integration
-kt: 9592
+jira: KT-9592
 thumbnail: 340319.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 7c877275-a160-41a8-950a-756e9e932302
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '63'
 ht-degree: 100%
 
