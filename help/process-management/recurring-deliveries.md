@@ -2,7 +2,7 @@
 title: 반복 및 연속 이메일 게재 만들기
 description: 반복 및 연속 게재를 설정하는 방법을 알아보고 두 접근 방식 간의 차이점을 이해합니다.
 feature: Workflows
-kt: 7982
+jira: KT-7982
 thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '232'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * **연속 게재**&#x200B;를 사용하면 기존 게재에 새 수신자를 추가할 수 있으며, 새 수신자가 추가될 때마다 게재를 만들 필요가 없습니다. 캠페인 워크플로우에서 직접 크리에이티브를 업데이트할 수 있으며 게재 템플릿 리소스 폴더에서 템플릿을 업데이트합니다.
 
-   연속 게재를 사용하면 단일 게재 및 게재 로그(broadLog)와 이 게재를 참조하는 추적 로그가 실행될 때마다 추가됩니다.
+  연속 게재를 사용하면 단일 게재 및 게재 로그(broadLog)와 이 게재를 참조하는 추적 로그가 실행될 때마다 추가됩니다.
 
 ![연속 게재](/help/assets/delivery_continuous.jpg)
 
