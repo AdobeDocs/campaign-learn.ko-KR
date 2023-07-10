@@ -2,15 +2,15 @@
 title: 데이터 소스 변경
 description: '[데이터 소스 변경] 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경함으로써 FDA, FFDA, 로컬 데이터베이스 등 다양한 데이터 소스 전체에 걸쳐 데이터를 유연하게 관리하는 방법을 알아봅니다'
 feature: Data Management
-kt: 78379
+jira: KT-78379
 thumbnail: 340064.jpg
 doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
