@@ -2,7 +2,7 @@
 title: 게재 템플릿 구성
 description: 임시 게재용 템플릿을 구성하는 방법을 알아봅니다.
 feature: Delivery Templates
-kt: 7962
+jira: KT-7962
 thumbnail: 342082.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 98%
