@@ -2,7 +2,7 @@
 title: 유형화 규칙을 사용하여 피로도를 관리합니다.
 description: 유형화 규칙을 적용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 feature: Fatigue Management
-kt: 7959
+jira: KT-7959
 thumbnail: 333787.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
