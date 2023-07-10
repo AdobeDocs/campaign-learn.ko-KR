@@ -3,11 +3,11 @@ title: 표준 SMPP 공급자에 대한 SMS 계정 설정
 description: Adobe Campaign을 사용하여 SMPP 계정을 설정하는 방법, SMS 게재 결과를 분석하고 SMPP 공급자 사양에 따라 SR 처리를 사용자 지정하는 방법을 알아봅니다. 
 feature: SMS
 thumbnail: 343607.jpg
-kt: 9742
+jira: KT-9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 
