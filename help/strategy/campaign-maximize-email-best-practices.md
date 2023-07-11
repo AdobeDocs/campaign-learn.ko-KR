@@ -2,8 +2,11 @@
 title: 이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다
 description: 이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다.
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
