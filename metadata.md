@@ -1,17 +1,17 @@
 ---
 cloud: Experience Cloud
+product: Adobe Campaign
 solution: Campaign, Campaign v8
 feature-set: Campaign
 version: v8
-product: campaign
 type: Tutorial
-mini-toc-levels: 2
+mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.ko-KR
 index: true
-source-git-commit: 10904eac94f05d17c125a11f2dd042e4535232c5
+source-git-commit: fc38f98d158700d3e1d715199073d54bcdb4cb4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 100%
 
 ---
 
