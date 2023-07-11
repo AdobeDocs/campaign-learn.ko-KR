@@ -1,7 +1,7 @@
 ---
 title: 내보내기 워크플로우 생성(2부) - 외부 계정에 데이터 추출, 포맷, 저장
 description: 내보내기 워크플로우 만들기 자습서의 두 번째 부분에서 내보낼 데이터의 형식을 지정하는 방법과 데이터를 외부 계정에 저장하는 방법을 알아봅니다.
-feature: Data Import/Export, Workflows
+feature: Data Management, Workflows
 jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%

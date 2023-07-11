@@ -1,7 +1,7 @@
 ---
 title: 내보내기 워크플로우 만들기(1부) - 수신자 목록에 대해 마지막으로 수정한 날짜를 찾습니다
 description: 내보내기 워크플로우 만들기 자습서의 첫 번째 부분에서 Experience Platform 세그먼트에서 만든 수신자 목록에 대해 마지막으로 수정한 날짜를 찾는 워크플로우를 만드는 방법을 알아봅니다.
-feature: Data Import/Export, Workflows
+feature: Data Management, Workflows
 jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
