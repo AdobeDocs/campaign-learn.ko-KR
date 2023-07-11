@@ -1,8 +1,11 @@
 ---
 user-guide-title: Adobe Campaign용 SMS 설정
 user-guide-description: SMTP 공급자에 대한 SMS 계정 구성 방법, Adobe Campaign에서 SMS 처리 방법, 구성 분석 및 문제 해결 방법을 알아봅니다. 
+Role: Admin, Developer
+Level: Advanced
+Feature: SMS
 breadcrumb-title: SMS 설정
-source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
+source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
