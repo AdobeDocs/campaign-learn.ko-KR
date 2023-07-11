@@ -1,7 +1,7 @@
 ---
 title: 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 description: 다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7792
 thumbnail: 335682.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%

@@ -1,7 +1,7 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 description: 다이내믹 콘텐츠 블록을 만드는 방법과 이 블록을 사용하여 이메일 게재의 콘텐츠를 개인화하는 방법을 알아봅니다.
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7941
 thumbnail: 342088.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
