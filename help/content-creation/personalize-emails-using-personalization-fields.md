@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}

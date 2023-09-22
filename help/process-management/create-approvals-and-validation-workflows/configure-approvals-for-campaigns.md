@@ -9,10 +9,10 @@ activity: use
 role: User
 level: Beginner
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '56'
+ht-degree: 96%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 캠페인 워크플로우의 모든 게재에 대해 동일한 검토자 세트가 있는 경우, 캠페인 수준에서 승인을 설정해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}

@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 97%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 마케팅 계획, 프로그램 및 캠페인을 만들고, 캠페인에 대한 속성을 설정하는 방법을 배우고, 일정을 사용하는 방법을 이해합니다.
 이 비디오에서는 인스턴스에서 수행할 수 있는 연습을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}

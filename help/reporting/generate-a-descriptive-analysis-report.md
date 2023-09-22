@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: d627a665-732a-4d75-8b50-67c9efc4e7cd
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 94%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 워크플로우에서 [!UICONTROL 설명 분석 보고서]를 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}

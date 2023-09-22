@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 내보내기 워크플로우 만들기 자습서의 두 번째 부분에서 내보낼 데이터의 형식을 지정하는 방법과 데이터를 외부 계정에 저장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
 
 ## 자산
 

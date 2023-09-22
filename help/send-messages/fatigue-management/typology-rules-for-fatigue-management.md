@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '56'
+ht-degree: 96%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Adobe Campaign에서 유형화 규칙을 사용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}

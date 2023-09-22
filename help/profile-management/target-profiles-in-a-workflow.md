@@ -11,10 +11,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
-source-git-commit: 583a8ffadd5d5deec3c8689d5862e39c456a2be4
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 캠페인 워크플로우의 사용을 이해하고, 워크플로우를 만들고 워크플로우에서 필터링 조건을 사용하여 프로필을 타깃팅하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
 
 ## 다음 튜토리얼
 

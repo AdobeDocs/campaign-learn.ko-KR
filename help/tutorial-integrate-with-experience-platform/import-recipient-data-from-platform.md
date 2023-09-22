@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Experienced
 exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Experience Platform에서 Campaign으로 수신자 데이터를 가져오기 위해 Adobe Campaign에서 외부 계정을 구성하는 방법을 배웁니다. Experience Platform에서 받은 수신자를 업로드하고 타겟팅하는 워크플로우를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}

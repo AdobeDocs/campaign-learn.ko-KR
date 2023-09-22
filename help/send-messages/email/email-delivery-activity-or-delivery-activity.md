@@ -6,10 +6,10 @@ jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '61'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 96%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 이메일 게재 템플릿을 배포하는 방법을 설명합니다. 이메일 게재와 게재 워크플로우의 차이점을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}

@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '232'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '236'
+ht-degree: 98%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 100%
 
 이 비디오에서는 반복 게재 및 예약 활동을 구성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## 연속 게재를 설정하는 방법 {#how-to-set-up-a-continuous-delivery}
 
 이 비디오에서는 증분 쿼리를 사용하여 연속 게재를 구성하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
