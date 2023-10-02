@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign을 사용하면 크로스채널 고객 �
 breadcrumb-title: 튜토리얼
 auto-video-transcripts: true
 source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
 ht-degree: 100%
 
