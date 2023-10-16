@@ -7,9 +7,9 @@ jira: KT-9743
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ SMS란 무엇입니까? SMS 서비스 제공자의 역할 및 Adobe Campaign이 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
 
-SMPP 프로토콜에 대한 자세한 내용, 외부 계정 설정에 대한 세부 정보 또는 가장 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ko#sending-messages)을 참조하십시오.
+SMPP 프로토콜과 관련한 자세한 내용, 외부 계정 설정과 관련한 세부 정보나 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ko#sending-messages)을 참고하세요.
