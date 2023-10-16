@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email)를 참고하세요.
