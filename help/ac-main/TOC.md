@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign 튜토리얼
-user-guide-description: Adobe Campaign v8에 대한 비디오 및 튜토리얼.
-breadcrumb-title: Campaign v8 Tutorials
+user-guide-description: Adobe Campaign v8에 대한 비디오 및 튜토리얼입니다.
+breadcrumb-title: Campaign v8 튜토리얼
 auto-video-transcripts: true
 source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
