@@ -1,29 +1,35 @@
 ---
-title: Adobe Campaign V8 튜토리얼 - 개요
-description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+title: Adobe Campaign V8 클라이언트 콘솔 Tutorials
+description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8 클라이언트 콘솔의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
+source-git-commit: 3618aa08e8bd36c3825543ed160c7d0f1abd04bb
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 100%
+source-wordcount: '368'
+ht-degree: 76%
 
 ---
 
-# Adobe Campaign v8 튜토리얼
+# Adobe Campaign v8 클라이언트 콘솔 Tutorials
 
-Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8 클라이언트 콘솔의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+
+보기
 
 >[!INFO]
 > 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
+> 
+> 이 튜토리얼은 원하던 답변이 아닌가요?
+> 다음을 참조하십시오. [Adobe Campaign 웹 사용자 인터페이스 자습서](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) Campaign 웹 사용자 인터페이스를 사용하는 방법에 대한 지침을 보려면.
 
 >[!NOTE]
 > Campaign v8은 현재 관리 Cloud Service로만 사용할 수 있으며 온-프레미스 또는 하이브리드 환경에 배포할 수 없습니다. 기존 Campaign Classic v7 환경에서의 자동 마이그레이션은 아직 불가능합니다.
 >
->Classic v7에서 V8로 전환하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko)를 참조하세요.
+>다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko) classic v7에서 V8로 전환하는 방법에 대한 자세한 내용
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
