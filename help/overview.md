@@ -1,19 +1,19 @@
 ---
-title: Adobe Campaign V8 클라이언트 콘솔 Tutorials
+title: Adobe Campaign V8 클라이언트 콘솔 자습서
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8 클라이언트 콘솔의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 162004a7d92a649600a4e6bb42e306e92b1985cf
+source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 76%
 
 ---
 
-# Adobe Campaign v8 클라이언트 콘솔 Tutorials
+# Adobe Campaign v8 클라이언트 콘솔 자습서
 
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8 클라이언트 콘솔의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
