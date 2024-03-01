@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 98%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 100%
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
    + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
    + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
++ [Adobe Campaign 웹 사용자 인터페이스 자습서](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
