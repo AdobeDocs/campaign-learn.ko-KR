@@ -9,9 +9,8 @@ activity: understand
 team: PM
 role: Admin
 level: Beginner
-exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+source-git-commit: db35279107b5e868ac432fd7b589c41141984ee4
+workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 100%
 
