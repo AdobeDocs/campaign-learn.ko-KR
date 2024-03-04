@@ -5,17 +5,17 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
+source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '399'
+ht-degree: 95%
 
 ---
 
 
-# Adobe Campaign v8 튜토리얼 {#tutorials}
+# Adobe Campaign v8 클라이언트 콘솔 Tutorials {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Campaign v8 클라이언트 콘솔 Tutorials](/help/overview.md)
 + [Campaign v8의 주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 + 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
