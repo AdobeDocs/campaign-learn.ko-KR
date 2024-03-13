@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign 사용자 인터페이스 살펴보기
+title: Adobe Campaign v8 클라이언트 콘솔 사용자 인터페이스 살펴보기
 description: Adobe Campaign V8 사용자 인터페이스와 기본 기능을 탐색하는 방법에 대해 알아봅니다.
 feature: Overview
 jira: KT-7828
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: 1844c9ee8f8ad62275fe7a1d306019ed1a92f6f2
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 64%
 
 ---
 
-# Adobe Campaign 사용자 인터페이스 살펴보기
+# Adobe Campaign v8 클라이언트 콘솔 사용자 인터페이스 살펴보기
 
 Adobe Campaign V8 사용자 인터페이스와 기본 기능을 탐색하는 방법에 대해 알아봅니다.
 
