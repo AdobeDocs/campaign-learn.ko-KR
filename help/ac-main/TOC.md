@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 �
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign v8 클라이언트 콘솔 Tutorials {#tutorials}
+# Adobe Campaign v8 클라이언트 콘솔 튜토리얼 {#tutorials}
 
-+ [Campaign v8 클라이언트 콘솔 Tutorials](/help/overview.md)
++ [Campaign v8 클라이언트 콘솔 튜토리얼](/help/overview.md)
 + [Campaign v8의 주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 + 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
    + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
    + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
-+ [Adobe Campaign 웹 사용자 인터페이스 자습서](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign Web 사용자 인터페이스 튜토리얼](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ko)
