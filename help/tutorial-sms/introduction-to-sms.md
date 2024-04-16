@@ -4,11 +4,12 @@ description: SMS 정의 및 Campaign에서 SMS를 처리하는 방법 알아보�
 feature: SMS
 thumbnail: 340957.jpg
 jira: KT-9743
+role: Admin, Developer
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 5888fcb30e8198c8f10a45fd080920930be6829f
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
