@@ -2,11 +2,12 @@
 title: 기술 튜토리얼 - Adobe Campaign용 SMS 설정
 description: SMTP 공급자에 대한 SMS 계정을 구성하는 방법 및 구성 분석 및 문제 해결하는 방법을 알아봅니다.
 feature: SMS
+role: Admin, Developer
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
-source-wordcount: '211'
+source-git-commit: 4e964683ecd28f5b618b15eea424e9c0a9327531
+workflow-type: ht
+source-wordcount: '201'
 ht-degree: 100%
 
 ---
