@@ -3,17 +3,16 @@ user-guide-title: 관리자 및 개발자를 위한 Adobe Campaign v8을 시작�
 user-guide-description: 이 자습서에서는 개요를 제공합니다
 breadcrumb-title: 관리자를 위한 Adobe Campaign 시작하기
 index: false
-source-git-commit: b88ed11f89d4d17a79c9474ad93116d01e469795
+source-git-commit: d8a2fd94d67e656b223aa0c580b81fee4c35a520
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 12%
+source-wordcount: '61'
+ht-degree: 14%
 
 ---
 
 
-# 관리자 및 개발자를 위한 Adobe Campaign v8 시작하기{#get-started-with-campaign-v8-for-admins-and-developers}
+# 관리자 및 개발자를 위한 Adobe Campaign v8 시작하기 {#get-started-with-campaign-v8-for-admins-and-developers}
 
-+ [관리자 및 개발자를 위한 Adobe Campaign v8 시작하기]
 + [환경 설정]{#set-up-environments}
    + [Campaign 구현 지침](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}
    + [Adobe Campaign 클라이언트 콘솔 설치 및 설정](/help/tutorial-acs-acc-admin/install-the-client-console.md)
