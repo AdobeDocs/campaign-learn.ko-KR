@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-source-git-commit: 05edf80a541e57e0f3e66391a0da9993b8c80cb2
+source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '368'
 ht-degree: 100%
 
 ---
@@ -29,6 +29,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 > Campaign v8은 현재 관리 Cloud Service로만 사용할 수 있으며 온-프레미스 또는 하이브리드 환경에 배포할 수 없습니다. 기존 Campaign Classic v7 환경에서의 자동 마이그레이션은 아직 불가능합니다.
 >
 >Classic v7에서 V8로 전환하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ko)를 참조하십시오.
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
