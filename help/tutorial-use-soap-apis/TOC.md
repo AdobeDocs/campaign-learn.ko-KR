@@ -4,7 +4,7 @@ user-guide-description: Adobe Campaign의 Soap API를 사용하고 고급 게재
 breadcrumb-title: SOAP API 사용
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---

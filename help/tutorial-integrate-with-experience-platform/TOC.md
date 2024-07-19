@@ -4,7 +4,7 @@ user-guide-description: 두 솔루션 간에 통신할 수 있도록 Campaign �
 breadcrumb-title: Experience Platform과 통합
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---

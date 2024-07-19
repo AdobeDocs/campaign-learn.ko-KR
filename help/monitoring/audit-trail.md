@@ -11,15 +11,15 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
 # 감사 추적
 
-[!UICONTROL 감사 추적]은 작업의 전체 목록과 Adobe Campaign 내에서 발생하는 이벤트를 실시간으로 캡처합니다.[!UICONTROL 감사 추적]은 다음과 같은 질문에 답변할 수 있도록 데이터 기록에 액세스하는 셀프서비스 방법이 포함되어 있습니다.
+[!UICONTROL Audit Trail]에서는 작업의 전체 목록과 Adobe Campaign 내에서 발생하는 이벤트를 실시간으로 캡처합니다.[!UICONTROL Audit Trail]에는 다음과 같은 질문에 답변할 수 있도록 데이터 기록에 액세스하는 셀프서비스 방법이 포함되어 있습니다.
 
 * 개체는 어떻게 되었습니까?
 * 누가 그리고 언제 마지막으로 수정했습니까?

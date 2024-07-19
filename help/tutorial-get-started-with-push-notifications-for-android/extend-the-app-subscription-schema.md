@@ -11,15 +11,15 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
 
-# [!UICONTROL 앱 구독] 스키마를 확장하여 푸시 알림 개인화
+# [!UICONTROL app subscription] 스키마를 확장하여 푸시 알림 개인화
 
-[!UICONTROL 앱 구독] 스키마를 확장하여 [!DNL Campaign]이 모바일 앱에서 받은 개인화 값을 저장하는 방법을 알아보십시오.
+[!DNL Campaign]이(가) 모바일 앱에서 받은 개인화 값을 저장할 수 있도록 [!UICONTROL app subscription] 스키마를 확장하는 방법을 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 

@@ -4,7 +4,7 @@ user-guide-description: 이 튜토리얼에서는 Adobe Campaign에서 Android �
 breadcrumb-title: Android용 푸시 알림 시작
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
