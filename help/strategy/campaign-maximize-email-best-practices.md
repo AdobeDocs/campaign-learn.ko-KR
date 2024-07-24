@@ -6,7 +6,7 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
+source-git-commit: 01b114a7da816d25abcad8b0a12c7c02c6ebba02
 workflow-type: tm+mt
 source-wordcount: '1475'
 ht-degree: 0%
@@ -141,3 +141,4 @@ ht-degree: 0%
 이 문서의 요약 및 재참여 전략 구현에 대한 실시간 데모를 보려면 [웨비나](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)를 시청하세요.
 
 [고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.
+
