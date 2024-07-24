@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [컨트롤 그룹 사용](/help/send-messages/email/use-control-groups.md)
       + [이메일 배달 문제 해결](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [게재 가능성을 위한 이메일 디자인](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS {#sms}
       + [SMS 게재 만들기 ](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 푸시 {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
-   + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
 + [Adobe Campaign Web 사용자 인터페이스 튜토리얼](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ko)
