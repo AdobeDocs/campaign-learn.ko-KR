@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 �
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 + [Campaign v8의 주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 + 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ko)
    + [Adobe Campaign 클라이언트 콘솔 설치 및 설정](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign 사용자 인터페이스 살펴보기](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [마케팅 캠페인 관리](/help/get-started/manage-marketing-campaigns.md)
@@ -28,7 +28,7 @@ ht-degree: 97%
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/profile-management/import-profiles.md)
-   + [워크플로우에서 프로필 타겟팅하기](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [워크플로에서 프로필 타겟팅하기](/help/profile-management/target-profiles-in-a-workflow.md)
 + 캠페인 오케스트레이션 {#campaign-orchestration}
    + [캠페인 실행](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [멀티 및 크로스 캠페인 소개](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -68,21 +68,21 @@ ht-degree: 97%
       + [사전 정의된 필터](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [구독 서비스 구성 및 관리](/help/send-messages/configure-and-manage-subscription-services.md)
 + 프로세스 관리 및 자동화{#process-management}
-   + [워크플로우 만들기](/help/process-management/create-a-workflow.md)
+   + [워크플로 만들기](/help/process-management/create-a-workflow.md)
    + [반복 및 연속 게재 만들기](/help/process-management/recurring-deliveries.md)
-   + 타겟팅 워크플로우 {#targeting-workflows}
-      + [타기팅 워크플로우 만들기](/help/process-management/create-a-targeting-workflow.md)
+   + 타겟팅 워크플로 {#targeting-workflows}
+      + [타기팅 워크플로 만들기](/help/process-management/create-a-targeting-workflow.md)
       + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
       + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
+   + 승인 및 유효성 검사 워크플로 {#create-approvals-and-validation-workflows}
       + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [캠페인 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [게재에 대한 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [워크플로우에 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
-   + [동료로부터 학습 - 워크플로우 모범 사례](/help/process-management/workflow-best-practices-for-marketers.md)
+      + [워크플로에 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+   + [동료로부터 학습 - 워크플로 모범 사례](/help/process-management/workflow-best-practices-for-marketers.md)
 + 데이터 관리 {#data-management}
-   + [워크플로우를 통한 데이터 관리의 기본 사항](/help/data-management/data-management-fundamentals.md)
+   + [워크플로를 통한 데이터 관리의 기본 사항](/help/data-management/data-management-fundamentals.md)
    + [데이터 소스 변경](/help/data-management/change-data-source.md)
    + [업데이트 목록 활동 사용](/help/process-management/use-the-update-list-activity.md)
    + [데이터 보강 활동 구성](/help/process-management/enrichment-activity.md)
@@ -99,7 +99,7 @@ ht-degree: 97%
    + [기본 제공 보고서 액세스](/help/reporting/access-built-in-reports.md)
    + [설명 분석 보고서 생성](/help/reporting/generate-a-descriptive-analysis-report.md)
 + 모니터링 {#monitoring}
-   + [워크플로우 열 지도](/help/monitoring/workflow-heatmap.md)
+   + [워크플로 열 지도](/help/monitoring/workflow-heatmap.md)
    + [감사 추적](/help/monitoring/audit-trail.md)
 + 관리 {#administration}
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
