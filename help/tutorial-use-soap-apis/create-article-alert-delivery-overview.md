@@ -1,6 +1,6 @@
 ---
 title: 문서 경고 만들기 - 개요
-description: 전자 메일 게재를 통해 수신자가 가입한 모든 새 문서에 대해 경고를 표시하는 워크플로우를 만드는 방법을 알아봅니다.
+description: 전자 메일 게재를 통해 수신자가 가입한 모든 새 문서에 대해 경고를 표시하는 워크플로를 만드는 방법을 알아봅니다.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
 activity: use
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # 문서 경고 만들기 - 개요
 
-전자 메일 게재를 통해 수신자가 가입한 모든 새 문서에 대해 경고를 표시하는 워크플로우를 만드는 방법을 알아봅니다.
+전자 메일 게재를 통해 수신자가 가입한 모든 새 문서에 대해 경고를 표시하는 워크플로를 만드는 방법을 알아봅니다.
 
 **1단계:** [문서 및 수신자 구독 값을 쿼리합니다.](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 

@@ -1,6 +1,6 @@
 ---
 user-guide-title: SOAP API 사용
-user-guide-description: Adobe Campaign의 Soap API를 사용하고 고급 게재 워크플로우를 만드는 방법을 알아봅니다.
+user-guide-description: Adobe Campaign의 Soap API를 사용하고 고급 게재 워크플로를 만드는 방법을 알아봅니다.
 breadcrumb-title: SOAP API 사용
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt

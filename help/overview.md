@@ -97,16 +97,16 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>워크플로우에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.</em>
+    <em>워크플로에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.</em>
     <p>
   </td>
   <td>
    <a href="./data-management/data-management-fundamentals.md">
-      <img alt="워크플로우를 통한 데이터 관리의 기본 사항" src="./assets/339992.jpg" />
+      <img alt="워크플로를 통한 데이터 관리의 기본 사항" src="./assets/339992.jpg" />
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>워크플로우를 통한 데이터 관리의 기본 사항</strong>
+    <strong>워크플로를 통한 데이터 관리의 기본 사항</strong>
     </a>
     </div>
     <p>

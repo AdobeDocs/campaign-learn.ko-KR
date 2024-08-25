@@ -6,8 +6,8 @@ level: Beginner, Experienced
 jira: KT-15788
 source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 23%
+source-wordcount: '863'
+ht-degree: 22%
 
 ---
 

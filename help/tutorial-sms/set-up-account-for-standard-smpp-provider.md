@@ -9,7 +9,7 @@ last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
 source-git-commit: d9b8e25cbb2d13af48e34d035070715a0a9e659c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ Adobe Campaign을 사용하여 SMPP 계정을 설정하는 방법, SMS 게재 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
 
-SMPP 프로토콜과 관련한 자세한 내용, 외부 계정 설정과 관련한 세부 정보나 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ko#sending-messages)을 참고하세요.
+SMPP 프로토콜에 대한 자세한 내용, 외부 계정 설정에 대한 세부 정보 또는 가장 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ko#sending-messages)을 참조하십시오.
