@@ -4,9 +4,9 @@ description: 이 튜토리얼에서는 Campaign v8의 주요 기능에 대한 �
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '849'
 ht-degree: 22%
 
 ---
@@ -29,8 +29,6 @@ ht-degree: 22%
 2. [목록 검색 및 필터링](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## 도움말 및 지침 찾기
-
-UI에서 제품 설명서에 액세스하려면 [AI 기반의 상황별 도움말](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"}을 사용하십시오.
 
 [Adobe Campaign 웹 사용자 인터페이스 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home)
 
