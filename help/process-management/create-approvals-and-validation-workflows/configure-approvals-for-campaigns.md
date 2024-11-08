@@ -7,12 +7,12 @@ thumbnail: 338826.jpg
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
