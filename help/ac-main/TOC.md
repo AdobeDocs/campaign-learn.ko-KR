@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 튜토리얼
 user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 + [Campaign v8의 주요 기능](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ko)
 + 시작 {#getting-started}
    + [Adobe Campaign 소개](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/ko/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign 클라이언트 콘솔 설치 및 설정](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign 사용자 인터페이스 살펴보기](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [마케팅 캠페인 관리](/help/get-started/manage-marketing-campaigns.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [워크플로 열 지도](/help/monitoring/workflow-heatmap.md)
    + [감사 추적](/help/monitoring/audit-trail.md)
 + 관리 {#administration}
+   + [사용자 권한 관리](/help/administration/manage-user-permissions.md)
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
