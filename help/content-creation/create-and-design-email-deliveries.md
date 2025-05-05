@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이메일 게재 만들기 프로세스를 배우고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444316?quality=12&learn=on&captions=kor){transcript=true}

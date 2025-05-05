@@ -20,4 +20,4 @@ ht-degree: 100%
 
 워크플로 내에 승인 프로세스를 만들어 게재를 시작하기 전에 타겟팅 선택 논리를 검토 및 승인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442041?quality=12&learn=on&captions=kor){transcript=true}

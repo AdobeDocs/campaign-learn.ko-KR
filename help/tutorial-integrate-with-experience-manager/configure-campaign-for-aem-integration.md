@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Experience Manager와 Campaign 간 통합을 설정하는 방법을 알아봅니다. 확인해야 하는 중요한 설정과 피해야 하는 &#39;실수&#39; 등을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445903?quality=12&learn=on&captions=kor){transcript=true}

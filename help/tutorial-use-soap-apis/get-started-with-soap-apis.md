@@ -18,6 +18,6 @@ ht-degree: 100%
 
 API 요청에 사용할 Postman을 사용하여 세션 토큰을 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449482?quality=12&learn=on&captions=kor){transcript=true}
 
 다음 비디오 보기: [2단계 - 수신자 및 문서 추가 - SOAP API 요청 사용](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

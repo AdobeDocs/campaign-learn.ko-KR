@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Adobe Campaign에서 유형화 규칙을 사용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448338?quality=12&learn=on&captions=kor){transcript=true}

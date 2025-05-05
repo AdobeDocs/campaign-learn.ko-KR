@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Experience Platform에서 Campaign으로 수신자 데이터를 가져오기 위해 Adobe Campaign에서 외부 계정을 구성하는 방법을 배웁니다. Experience Platform에서 받은 수신자를 업로드하고 타겟팅하는 워크플로를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453484?quality=12&learn=on&captions=kor){transcript=true}

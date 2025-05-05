@@ -24,4 +24,4 @@ Adobe Campaign에는 애플리케이션 서버의 여러 모듈에 걸쳐 전체
 
 이 비디오에서는 Adobe Campaign에서 워크플로를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31869?quality=12&learn=on&captions=kor){transcript=true}

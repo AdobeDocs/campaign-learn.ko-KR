@@ -21,7 +21,7 @@ ht-degree: 100%
 
 내보내기 워크플로 만들기 자습서의 첫 번째 부분에서 Experience Platform 세그먼트에서 만든 수신자 목록에 대해 마지막으로 수정한 날짜를 찾는 워크플로를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450054?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 자산
 

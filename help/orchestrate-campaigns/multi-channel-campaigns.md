@@ -23,4 +23,4 @@ ht-degree: 100%
 
 수신자가 선호하는 채널에 따라 이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452510?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이메일 게재에 대한 증명을 보내고 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447006?quality=12&learn=on&captions=kor){transcript=true}

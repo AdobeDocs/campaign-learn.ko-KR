@@ -21,6 +21,6 @@ ht-degree: 100%
 
 다양한 타겟팅 및 필터링 차원을 사용하여 데이터를 쿼리하는 방법과 자동화된 콘텐츠 다이제스트 게재을 만드는 사용 사례를 위한 교차를 사용하여 출력을 결합하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452897?quality=12&learn=on&captions=kor){transcript=true}
 
 다음 단계: [구독한 수신자에게 게재를 보냅니다.](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

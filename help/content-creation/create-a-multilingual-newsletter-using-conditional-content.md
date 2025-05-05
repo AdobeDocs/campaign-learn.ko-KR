@@ -23,4 +23,4 @@ ht-degree: 100%
 
 다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446718?quality=12&learn=on&captions=kor){transcript=true}

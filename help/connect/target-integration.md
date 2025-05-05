@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Target에서 제공하는 다이내믹 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453264?quality=12&learn=on&captions=kor){transcript=true}

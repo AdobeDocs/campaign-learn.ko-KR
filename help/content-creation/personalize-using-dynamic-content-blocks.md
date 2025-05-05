@@ -25,4 +25,4 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하여 수
 
 다이내믹 콘텐츠 블록을 만드는 방법과 이 블록을 사용하여 이메일 게재의 콘텐츠를 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449013?quality=12&learn=on&captions=kor){transcript=true}

@@ -32,4 +32,4 @@ ht-degree: 92%
 
 다음 비디오에서는 임시 게재용 템플릿을 구성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409249?quality=12&learn=on&captions=kor){transcript=true}

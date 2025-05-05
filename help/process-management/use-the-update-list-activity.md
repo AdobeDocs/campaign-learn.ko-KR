@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign의 목록 개념을 파악하고 워크플로의 업데이트 목록 활동을 사용하여 목록 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426462?quality=12&learn=on&captions=kor){transcript=true}

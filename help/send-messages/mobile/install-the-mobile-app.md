@@ -23,4 +23,4 @@ ht-degree: 100%
 
 모바일 앱 채널이 인스턴스에 설치되어 있는지 확인하는 방법과 설치하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340425?quality=12&learn=on&captions=kor){transcript=true}

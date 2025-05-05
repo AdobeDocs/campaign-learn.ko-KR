@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Experience Manager에서 뉴스레터를 만드는 방법과 Campaign에서 이 뉴스레터를 승인하고 게시하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447578?quality=12&learn=on&captions=kor){transcript=true}
 

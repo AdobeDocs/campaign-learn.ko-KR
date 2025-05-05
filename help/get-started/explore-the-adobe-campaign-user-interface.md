@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign V8 사용자 인터페이스와 기본 기능을 탐색하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426440?quality=12&learn=on&captions=kor){transcript=true}

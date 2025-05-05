@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 즉석 이메일 게재 템플릿을 배포하는 방법을 알아보고 이메일 게재와 게재 워크플로의 차이점을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444964?quality=12&learn=on&captions=kor){transcript=true}

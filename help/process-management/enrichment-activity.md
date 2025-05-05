@@ -23,4 +23,4 @@ ht-degree: 100%
 
 게재 로그 정보를 기반으로 데이터 보강 활동을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452175?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 교차 또는 결합 활동을 사용하여 쿼리 결과를 워크플로에 결합함으로써 대상을 세분화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426433?quality=12&learn=on&captions=kor){transcript=true}

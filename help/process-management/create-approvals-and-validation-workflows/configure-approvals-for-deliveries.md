@@ -22,4 +22,4 @@ ht-degree: 100%
 
 게재마다 승인 단계와 검토자가 다른 경우에는 게재 수준에서 승인을 설정합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437652?quality=12&learn=on&captions=kor){transcript=true}

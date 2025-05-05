@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Experience Platform의 소스 커넥터를 사용하여 데이터를 수집하여 내보낸 캠페인 로그로 프로필 데이터를 업데이트하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452032?quality=12&learn=on&captions=kor){transcript=true}

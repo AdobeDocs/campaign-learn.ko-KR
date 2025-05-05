@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign의 기본 보고 및 분석을 파악하고 게재 보고서를 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448290?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,7 +21,7 @@ ht-degree: 64%
 
 [!DNL Campaign]이(가) 모바일 앱에서 받은 개인화 값을 저장할 수 있도록 [!UICONTROL app subscription] 스키마를 확장하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445559?quality=12&learn=on&captions=kor){transcript=true}
 
 **다음 단계**
 

@@ -22,4 +22,4 @@ ht-degree: 100%
 피로도 관리는 수신자에게 과도한 권유를 보내는 것을 방지하기 위해 메시지 빈도 및 수량을 제어합니다.
 Adobe Campaign에서 필터를 사용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444607?quality=12&learn=on&captions=kor){transcript=true}

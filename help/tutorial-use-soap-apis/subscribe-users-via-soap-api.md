@@ -18,6 +18,6 @@ ht-degree: 100%
 
 뉴스레터 서비스를 만들고 수신자에게 SOAP API 호출을 사용하여 구독하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446024?quality=12&learn=on&captions=kor){transcript=true}
 
 계속: [4단계 - 워크플로](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)로 컨텐츠 다이제스트 만들기

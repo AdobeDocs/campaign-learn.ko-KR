@@ -20,4 +20,4 @@ ht-degree: 100%
 
 타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452600?quality=12&learn=on&captions=kor){transcript=true}

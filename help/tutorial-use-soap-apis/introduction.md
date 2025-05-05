@@ -19,6 +19,6 @@ ht-degree: 100%
 
 API를 통해 받은 데이터를 기반으로 Adobe Campaign Soap API를 사용하고 고급 게재 워크플로를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438342?quality=12&learn=on&captions=kor){transcript=true}
 
 다음 비디오 보기: [1단계: SOAP API 시작](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

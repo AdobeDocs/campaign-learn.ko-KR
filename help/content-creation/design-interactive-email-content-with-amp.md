@@ -27,6 +27,6 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 아래 비디오에서는 Adobe Campaign에서 AMP를 활성화하는 방법을 설명하고 사용 사례를 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36393?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email)를 참조하세요.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 다양한 유형의 다이내믹 콘텐츠를 파악하고 개인화 블록 및 조건문을 만들어 게재에 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452875?quality=12&learn=on&captions=kor){transcript=true}

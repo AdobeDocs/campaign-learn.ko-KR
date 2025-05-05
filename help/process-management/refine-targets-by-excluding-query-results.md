@@ -21,4 +21,4 @@ ht-degree: 100%
 
 워크플로에 표준 제외를 적용하여 대상을 세분화하는 방법을 알아봅니다. 미리 정의된 필터를 만들고 워크플로의 문제를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452940?quality=12&learn=on&captions=kor){transcript=true}

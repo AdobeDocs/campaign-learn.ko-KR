@@ -21,4 +21,4 @@ ht-degree: 100%
 
 인스턴스의 로드를 모니터링하고 그에 따라 워크플로 일정을 계획하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445404?quality=12&learn=on&captions=kor){transcript=true}

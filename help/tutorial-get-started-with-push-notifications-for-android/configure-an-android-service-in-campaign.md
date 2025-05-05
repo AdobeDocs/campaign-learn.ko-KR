@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Campaign에서 [!DNL Android™] 서비스를 구성하고 [!DNL Android™] 모바일 애플리케이션을 만드는 방법을 알아봅니다. 이 단계는 푸시 알림에 대한 대상 모바일 애플리케이션을 정의하는 데 필요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340733?quality=12&learn=on&captions=kor){transcript=true}
 
 **이전 단계**
 

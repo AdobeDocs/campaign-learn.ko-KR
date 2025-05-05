@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Campaign에서 이메일 게재 문제를 해결하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426605?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 승인 및 캠페인을 설정하는 방법과 게재 및 워크플로 승인을 구분하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426630?quality=12&learn=on&captions=kor){transcript=true}

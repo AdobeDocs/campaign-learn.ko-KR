@@ -21,5 +21,5 @@ Adobe Campaign과 Adobe Experience Manager를 연결하면 Experience Manager에
 
 다음 비디오에서는 학습할 내용을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344276?quality=12&learn=on&captions=kor){transcript=true}
 

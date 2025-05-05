@@ -23,4 +23,4 @@ ht-degree: 100%
 
 또한 이 비디오에서는 Adobe Campaign의 개인 정보 보호 규정(GDPR) 및 CCPA(California Consumer Privacy Act) 준수에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452098?quality=12&learn=on&captions=kor){transcript=true}

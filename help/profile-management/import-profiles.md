@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign으로 프로필을 가져오는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344569?quality=12&learn=on&captions=kor){transcript=true}
