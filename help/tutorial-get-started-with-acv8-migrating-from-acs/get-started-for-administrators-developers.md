@@ -18,7 +18,7 @@ ht-degree: 22%
 
 ## Campaign v8 아키텍처 이해
 
-인스턴스 구조 및 구성을 시작하기 전에 Campaign 아키텍처를 이해하려면 [Campaign 아키텍처 시작](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"}을(를) 참조하십시오.
+인스턴스 구조 및 구성을 시작하기 전에 Campaign 아키텍처를 이해하려면 [Campaign 아키텍처 시작](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"}을(를) 참조하십시오.
 
 
 ## 클라이언트 콘솔 설치
@@ -27,7 +27,7 @@ ht-degree: 22%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [클라이언트 콘솔로 Campaign에 연결](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}을 참조하십시오.
+자세한 내용은 [클라이언트 콘솔로 Campaign에 연결](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/new/connect){target="_blank"}을 참조하십시오.
 
 ## 액세스 설정 및 관리
 
@@ -37,17 +37,17 @@ Adobe Campaign을 사용하면 사용자에게 할당된 권한을 정의하고 
 * 특정 데이터에 액세스
 * 특정 액션(만들기, 수정, 삭제)에 액세스
 
-  자세한 내용은 [사용자 권한 관리](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}를 참조하십시오.
+  자세한 내용은 [사용자 권한 관리](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}를 참조하십시오.
 
 ## 인스턴스 구성
 
-* [Campaign 구현 지침](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}을(를) 검토하여 회사의 요구 사항에 맞게 Adobe Campaign을 조정하고 구현을 구성하고 구성하는 방법을 알아보십시오.
-* [여기에서 채널 설정](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud 트리거 구성](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* [Campaign 구현 지침](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}을(를) 검토하여 회사의 요구 사항에 맞게 Adobe Campaign을 조정하고 구현을 구성하고 구성하는 방법을 알아보십시오.
+* [여기에서 채널 설정](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Experience Cloud 트리거 구성](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## 배포
 
-* [패키지 가져오기/내보내기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [패키지 가져오기/내보내기](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## 데이터 관리
 

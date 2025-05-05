@@ -19,7 +19,7 @@ Adobe Campaign v8에 오신 것을 환영합니다!
 
 이 참조 안내서는 Campaign Standard에서 Campaign v8로 마이그레이션한 사용자를 위해 설계되었습니다. 새 Campaign 인스턴스를 숙지하고 역할을 시작하는 데 필요한 단계를 안내하는 데 도움이 됩니다.
 
-1. Campaign v8의 주요 기능 및 용어에 대해 알아보십시오. Campaign v8 안내서로 [Campaign Standard 전환 검토](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. Campaign v8의 주요 기능 및 용어에 대해 알아보십시오. Campaign v8 안내서로 [Campaign Standard 전환 검토](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/acs-migration)
 
 2. 그런 다음 아래에서 역할을 선택하여 해당 역할에 대한 관련 참조 안내서에 액세스합니다.
 
