@@ -53,7 +53,7 @@ ht-degree: 96%
       + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
       + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS {#sms}
-      + [SMS 게재 만들기 ](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [SMS 게재 만들기 &#x200B;](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 푸시 {#push}
       + [모바일 앱 채널 설치](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -77,8 +77,8 @@ ht-degree: 96%
    + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
       + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [캠페인 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [게재에 대한 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [캠페인 승인 구성 &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [게재에 대한 승인 구성 &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [워크플로에 승인 활동 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [동료로부터 학습 - 워크플로 모범 사례](/help/process-management/workflow-best-practices-for-marketers.md)
 + 데이터 관리 {#data-management}
