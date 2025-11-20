@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/profile-management/import-profiles.md)
    + [워크플로에서 프로필 타겟팅하기](/help/profile-management/target-profiles-in-a-workflow.md)
-+ 캠페인 오케스트레이션 {#campaign-orchestration}
++ Campaign 오케스트레이션 {#campaign-orchestration}
    + [캠페인 실행](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [멀티 및 크로스 캠페인 소개](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [멀티채널 캠페인 만들기](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -46,7 +46,7 @@ ht-degree: 100%
    + [설문 조사 만들기](/help/content-creation/create-a-survey.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 {#email}
-      + [이메일 게재에 대한 증명을 보내고 확인합니다.](/help/send-messages/email/send-and-validate-proofs.md)
+      + [이메일 게재에 대한 교정쇄를 보내고 확인합니다.](/help/send-messages/email/send-and-validate-proofs.md)
       + [컨트롤 그룹 사용](/help/send-messages/email/use-control-groups.md)
       + [이메일 배달 문제 해결](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [게재 가능성을 위한 이메일 디자인](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -74,7 +74,7 @@ ht-degree: 100%
       + [타기팅 워크플로 만들기](/help/process-management/create-a-targeting-workflow.md)
       + [쿼리 결과를 결합하여 대상 세분화하기](/help/process-management/refine-targets-by-combining-query-results.md)
       + [쿼리 결과를 제외하여 대상 세분화하기](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + 승인 및 유효성 검사 워크플로 {#create-approvals-and-validation-workflows}
+   + 승인 및 유효성 검사 워크플로우 {#create-approvals-and-validation-workflows}
       + [소개](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [승인 관리](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [캠페인 승인 구성 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
