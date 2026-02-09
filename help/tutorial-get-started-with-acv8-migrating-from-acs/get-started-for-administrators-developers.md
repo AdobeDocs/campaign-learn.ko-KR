@@ -25,7 +25,7 @@ ht-degree: 17%
 
 기본 관리 및 구성 작업은 [Admin Console]에서 수행됩니다. 첫 번째 단계는 환경을 설정하는 것입니다. 다음 비디오에서는 Adobe Campaign 클라이언트 콘솔을 다운로드 및 설치하고 인스턴스에 대한 연결을 관리하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449888?captions=kor&quality=12&learn=on){transcript=true}
 
 자세한 내용은 [클라이언트 콘솔을 사용하여 Campaign에 연결](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/new/connect){target="_blank"}을 참조하십시오.
 
@@ -61,7 +61,7 @@ ht-degree: 17%
 
 타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452600?captions=kor&quality=12&learn=on){transcript=true}
 
 
 ### 스키마 만들고 확장하기
