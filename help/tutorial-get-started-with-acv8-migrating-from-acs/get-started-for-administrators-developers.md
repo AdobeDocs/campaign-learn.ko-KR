@@ -18,7 +18,7 @@ ht-degree: 17%
 
 ## Campaign v8 아키텍처 이해
 
-인스턴스 구조 및 구성을 시작하기 전에 Campaign 아키텍처를 이해하려면 [Campaign 아키텍처 시작하기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}를 참조하십시오.
+인스턴스 구조 및 구성을 시작하기 전에 Campaign 아키텍처를 이해하려면 [Campaign 아키텍처 시작하기](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}를 참조하십시오.
 
 
 ## 클라이언트 콘솔 설치
@@ -27,11 +27,11 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [클라이언트 콘솔을 사용하여 Campaign에 연결](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}을 참조하십시오.
+자세한 내용은 [클라이언트 콘솔을 사용하여 Campaign에 연결](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/new/connect){target="_blank"}을 참조하십시오.
 
 ## 액세스 설정 및 관리
 
-1. **[Campaign v8에서 사용 권한을 시작합니다.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[Campaign v8에서 사용 권한을 시작합니다.](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 운영자, 운영자 그룹(역할), 명명된 권한 및 폴더 권한과 같은 전체 권한 모델에 대해 알아봅니다.
 
 2. 클라이언트 콘솔에서 사용자 권한을 관리하는 방법을 알아봅니다. 방법 알아보기
@@ -43,17 +43,17 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-자세한 단계별 가이드를 작성하려면 [제품 설명서](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}를 참조하세요.
+자세한 단계별 가이드를 작성하려면 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}를 참조하세요.
 
 ## 인스턴스 구성
 
-* [Campaign 구현 지침](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}을 검토하여 회사의 요구 사항에 맞게 Adobe Campaign을 조정하고 구현을 구성하고 구성하는 방법을 알아보십시오.
-* [여기에서 채널 설정](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud 트리거 구성](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* [Campaign 구현 지침](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}을 검토하여 회사의 요구 사항에 맞게 Adobe Campaign을 조정하고 구현을 구성하고 구성하는 방법을 알아보십시오.
+* [여기에서 채널 설정](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Experience Cloud 트리거 구성](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## 배포
 
-* [패키지 가져오기/내보내기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [패키지 가져오기/내보내기](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## 데이터 관리
 
