@@ -33,4 +33,4 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->이 튜토리얼은 Adobe Campaign V7 및 Campaign V8에 적용됩니다. 추가 리소스는 제품 설명서에서 찾을 수 있습니다. [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+>이 튜토리얼은 Adobe Campaign V7 및 Campaign V8에 적용됩니다. 추가 리소스는 제품 설명서에서 찾을 수 있습니다. [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).

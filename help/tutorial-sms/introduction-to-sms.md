@@ -21,4 +21,4 @@ SMS란 무엇입니까? SMS 서비스 제공자의 역할 및 Adobe Campaign이 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
 
-SMPP 프로토콜에 대한 자세한 내용, 외부 계정 설정에 대한 세부 정보 또는 가장 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)을 참조하십시오.
+SMPP 프로토콜에 대한 자세한 내용, 외부 계정 설정에 대한 세부 정보 또는 가장 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)을 참조하십시오.
