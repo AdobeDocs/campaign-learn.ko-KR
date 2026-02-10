@@ -20,4 +20,4 @@ ht-degree: 10%
 
 데이터 변경 Source 활동을 사용하여 워크플로우 작업 테이블의 데이터 소스를 변경함으로써 FDA, FFDA, 로컬 데이터베이스 등 다양한 데이터 소스 전체에 걸쳐 데이터를 유연하게 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449537?captions=kor&quality=12&learn=on){transcript=true}

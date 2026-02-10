@@ -19,6 +19,6 @@ ht-degree: 93%
 
 SMS란 무엇입니까? SMS 서비스 제공자의 역할 및 Adobe Campaign이 서비스 공급자에 어떻게 연결되는지 알아봅니다. 서비스 공급자를 통해 전달되는 정보와 사용 가능한 기술 노트를 파악합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416811?captions=kor&quality=12&learn=on){transcript=true}
 
 SMPP 프로토콜에 대한 자세한 내용, 외부 계정 설정에 대한 세부 정보 또는 가장 일반적인 문제 해결은 [SMS 커넥터 프로토콜 및 설정](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)을 참조하십시오.
