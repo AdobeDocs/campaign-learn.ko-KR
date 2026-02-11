@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ ht-degree: 0%
 
 * **테스트 및 학습** - 노력이 원하는 효과를 발휘하도록 하려면 올바른 테스트 계획이 중요합니다. 작동 중인 항목과 작동 중이 아닌 항목을 학습하고 그에 따라 반복합니다.
 
-이 문서의 요약 및 재참여 전략 구현에 대한 실시간 데모를 보려면 [웨비나](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)를 시청하세요.
-
-[고객 성공](https://experienceleague.adobe.com/ko/docs/customer-success/customer-success/overview) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.
-
+[관점](https://experienceleague.adobe.com/en/perspectives) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.
