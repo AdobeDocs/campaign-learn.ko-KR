@@ -21,4 +21,4 @@ ht-degree: 100%
 
 워크플로에서 [!UICONTROL descriptive analysis report] 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448836?captions=kor&quality=12&learn=on){transcript=true}

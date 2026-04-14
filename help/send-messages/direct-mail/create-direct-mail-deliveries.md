@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL Adobe Campaign]에서 [!UICONTROL direct mail]의 작동 원리를 이해하고 [!UICONTROL direct mail] 게재를 만들고, 형식을 지정하며, 실행하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414040?captions=kor&quality=12&learn=on){transcript=true}
