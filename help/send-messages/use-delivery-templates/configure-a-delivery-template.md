@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 92%
 * 유형화
 * 보낸 사람 및 회신 주소
 * 기본 개인화 블록
-* 미러 페이지 및 구독 취소 링크 링크
+* 미러 페이지 링크 및 구독 취소 링크
 * 콘텐츠, 회사 로고 또는 서명
-* 자원 유효성, 일괄 처리 수량 등과 같은 기타 게재 속성
+* 자원 유효성, 배치 수량 등과 같은 기타 게재 속성
 
 다음 비디오에서는 임시 게재용 템플릿을 구성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409249?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}

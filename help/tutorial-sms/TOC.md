@@ -6,8 +6,8 @@ Level: Advanced
 Feature: SMS
 breadcrumb-title: SMS 설정
 source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
-workflow-type: tm+mt
-source-wordcount: '75'
+workflow-type: ht
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 100%
 + [SMS 계정 설정](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
 + [SMS 커넥터 조정](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)
 + [SMPP 프로토콜 심층 분석 및 문제 해결](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
-+ 튜토리얼로 돌아가기{#campaign-tutorials}
++ 튜토리얼로 돌아가기 {#campaign-tutorials}
    + [Adobe Campaign V8 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko)
    + [Adobe Campaign V7 튜토리얼](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko)

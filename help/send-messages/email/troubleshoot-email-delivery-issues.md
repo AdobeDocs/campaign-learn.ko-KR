@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '33'
+workflow-type: ht
+source-wordcount: '42'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,8 @@ ht-degree: 100%
 
 Campaign에서 이메일 게재 문제를 해결하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426605?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on){transcript=true}
 
 ## 추가 리소스
 
-* [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
+* [전달성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)

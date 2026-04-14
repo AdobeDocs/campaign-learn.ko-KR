@@ -7,9 +7,9 @@ badgeV7V8: label = &quot;v7 및 v8에 적용" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
-workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 69%
+workflow-type: ht
+source-wordcount: '224'
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 69%
   *SMS 작동 방식과 Adobe Campaign에서 SMS 보내는 방법을 알아봅니다*
 
 * **[표준 SMPP 공급자에 대한 SMS 계정 설정](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-  *SMS 커넥터를 SMPP 공급자에게 적용하는 방법을 알아봅니다. SMS 설정을 미세 조정하여 연결 제한을 처리합니다.  최대 처리량, 전송 창 및 TLS로 암호화를 설정하는 방법을 이해합니다.*
+  *SMS 커넥터를 SMPP 공급자에게 적용하는 방법을 알아봅니다. SMS 설정을 정교하게 조정하여 연결 한도를 처리합니다.  최대 처리량, 전송 창, TLS 암호화를 설정하는 방법을 알아봅니다.*
 
-* **[SMPP 공급자에 SMS 커넥터 적용](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-  *SMS 설정을 미세 조정하여 연결 제한을 처리하는 방법을 알아봅니다. 최대 처리량, 전송 창 및 TLS로 암호화를 설정하는 방법을 이해합니다.*
+* **[SMPP 공급자에 SMS 커넥터 맞추기](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+  *SMS 설정을 정교하게 조정하여 연결 한도를 처리하는 방법을 알아봅니다. 최대 처리량, 전송 창, TLS 암호화를 설정하는 방법을 알아봅니다.*
 
 * **[SMPP 프로토콜 심층 분석 및 문제 해결](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
   *SMPP 연결 설정 방법과 SMPP가 PDU를 통해 데이터를 교환하는 방법을 알아봅니다. 문제 해결 방법을 이해합니다.*
