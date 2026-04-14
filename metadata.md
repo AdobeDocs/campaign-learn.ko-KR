@@ -8,7 +8,7 @@ landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-learn.en
+git-repo: https://github.com/AdobeDocs/campaign-learn.ko-KR
 index: true
 source-git-commit: 2ad277572291313333bf8f2624460984bb5e0681
 workflow-type: ht
