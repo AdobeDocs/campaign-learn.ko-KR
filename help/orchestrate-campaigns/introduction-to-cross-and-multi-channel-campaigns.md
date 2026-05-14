@@ -30,4 +30,4 @@ ht-degree: 100%
 
 다중 채널과 크로스 채널 캠페인의 차이점과 사용 사례를 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447205?captions=kor&quality=12&learn=on){transcript=true}

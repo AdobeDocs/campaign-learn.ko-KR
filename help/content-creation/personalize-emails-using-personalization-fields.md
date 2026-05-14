@@ -32,4 +32,4 @@ ht-degree: 100%
 
 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31879?captions=kor&quality=12&learn=on){transcript=true}

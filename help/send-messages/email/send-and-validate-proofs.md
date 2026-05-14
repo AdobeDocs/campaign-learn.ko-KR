@@ -28,4 +28,4 @@ ht-degree: 100%
 
 이메일 게재에 대한 교정쇄를 보내고 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447006?captions=kor&quality=12&learn=on){transcript=true}

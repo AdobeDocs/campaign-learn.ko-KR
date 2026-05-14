@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Experience Manager에서 만든 뉴스레터를 Campaign에서 테스트하고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444755?captions=kor&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 캠페인을 실행하고, 이메일 게재를 검토하고, 배달 속성을 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452968?captions=kor&quality=12&learn=on){transcript=true}
