@@ -5,10 +5,27 @@ role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
-source-git-commit: 6f1adb374b7b7066bc2613d30d04d09c9e38f42e
+TQID: https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+subfeature_v2:
+  - id: e3988c18-3cfa-4f16-b812-ac2d2b1056fa
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 17%
+source-wordcount: 402
+ht-degree: 13%
 
 ---
 
@@ -48,7 +65,7 @@ ht-degree: 17%
 ## 인스턴스 구성
 
 * [Campaign 구현 지침](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}을 검토하여 회사의 요구 사항에 맞게 Adobe Campaign을 조정하고 구현을 구성하고 구성하는 방법을 알아보십시오.
-* [여기에서 채널 설정](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [채널 설정 위치](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
 * [Experience Cloud 트리거 구성](https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## 배포

@@ -10,9 +10,18 @@ team: TM
 role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
-source-git-commit: 1844c9ee8f8ad62275fe7a1d306019ed1a92f6f2
+TQID: https://experienceleague.adobe.com/-KbIWghyrr-CkgNACORvNXS4K3OR4ZXRA5stPjw0iJY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: 48
 ht-degree: 100%
 
 ---
@@ -21,4 +30,4 @@ ht-degree: 100%
 
 Adobe Campaign V8 사용자 인터페이스와 기본 기능을 탐색하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426440?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426440?captions=kor&quality=12&learn=on){transcript=true}

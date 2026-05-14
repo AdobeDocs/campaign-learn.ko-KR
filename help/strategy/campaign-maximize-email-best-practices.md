@@ -6,9 +6,24 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
+TQID: https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: addf009e-030a-4310-8534-776a3e62ed48
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: 1474
 ht-degree: 0%
 
 ---
@@ -53,7 +68,7 @@ ht-degree: 0%
    * 오전 8~10시와 같이 이메일 오버로드를 수신하는 하루 중 몇 시에 전략적으로 계획을 수립합니다.
    * 며칠 동안 확산시킬 수 없다면 몇 시간 동안 노력하세요
 
-### &#x200B;2. 기반시설
+### &#x200B;2. 인프라
 
 * 자체 이메일로 테스트를 수행하여 이메일 인증이 올바르게 설정되었는지 확인합니다.
 * 바운스 처리에 대해 숙지하고 ISP에서 성능을 확인합니다

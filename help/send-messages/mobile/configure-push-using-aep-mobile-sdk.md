@@ -10,13 +10,19 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
+TQID: https://experienceleague.adobe.com/TaD-CBh-BiDawrp6SxT6q7FTga4N-OzgPI-YpB8EEmM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: 47
 ht-degree: 100%
 
 ---
-
 
 # Experience Platform Mobile SDK를 사용하여 푸시 채널 구성
 
