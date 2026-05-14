@@ -11,9 +11,12 @@ role: User, Developer
 level: Experienced
 hide: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
+TQID: https://experienceleague.adobe.com/PvAIzI3w3MKogJVgsb9mJt3VH1IxK3z1vKLcEgP5kFQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 109
 ht-degree: 100%
 
 ---
@@ -26,6 +29,6 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 아래 비디오에서는 Adobe Campaign에서 AMP를 활성화하는 방법을 설명하고 사용 사례를 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36393?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email)를 참조하세요.

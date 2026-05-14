@@ -1,25 +1,30 @@
 ---
-title: Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작하기 - 개요
+title: Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작 - 개요
 description: 이 튜토리얼에서는 새로운 Campaign v8 애플리케이션을 시작하는 데 필요한 단계를 안내합니다.
 team: TM
 role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
-source-git-commit: 60613a5e1d268fa4b1f8ea01696ee034bc1c6002
+exl-id: bb5979f8-4ca0-49f9-a061-2c0d21ef5b67
+TQID: https://experienceleague.adobe.com/r3hYvGkxKSW2jbC6r23lfZzfMhRH-yyBmxoznaYjhPQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 2%
+source-wordcount: 180
+ht-degree: 7%
 
 ---
 
-
-# Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작하기 - 개요
+# Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작 - 개요
 
 Adobe Campaign v8에 오신 것을 환영합니다!
 
 이 참조 안내서는 Campaign Standard에서 Campaign v8로 마이그레이션한 사용자를 위해 설계되었습니다. 새 Campaign 인스턴스를 숙지하고 역할을 시작하는 데 필요한 단계를 안내하는 데 도움이 됩니다.
 
-1. Campaign v8의 주요 기능 및 용어에 대해 알아보십시오. Campaign v8 안내서로 [Campaign Standard 전환 검토](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/acs-migration)
+1. Campaign v8의 주요 기능 및 용어에 대해 알아보십시오. [Campaign v8 안내서로 Campaign Standard 전환 검토](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/acs-migration)
 
 2. 그런 다음 아래에서 역할을 선택하여 해당 역할에 대한 관련 참조 안내서에 액세스합니다.
 

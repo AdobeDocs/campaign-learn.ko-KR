@@ -10,9 +10,13 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/aoz5D1gwLAyVtJ6Tkh46bEJuRksmyqxRfTfY3OvRtQo
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: 57
 ht-degree: 100%
 
 ---
@@ -23,4 +27,4 @@ Adobe Campaign을 사용하면 온라인 설문 조사, 기본 설정 센터, �
 
 이 비디오에서는 기본 설정 센터를 만들어 Adobe Campaign의 웹 애플리케이션 편집기를 탐색하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450221?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
