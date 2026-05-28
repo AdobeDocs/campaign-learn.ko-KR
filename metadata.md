@@ -8,13 +8,14 @@ product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
   - id: bb44d873-5098-4ed3-aaf2-23b9778b38b2
   - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+usetq: true
 landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.ko-KR
 index: true
-source-git-commit: d76117598957c83a349b0331bcb0773854b19c04
+source-git-commit: 2f599c7a9a98034d1c83a69a783ea2603848d59a
 workflow-type: tm+mt
 source-wordcount: 71
 ht-degree: 100%
