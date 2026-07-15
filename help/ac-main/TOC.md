@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign V8 클라이언트 콘솔의 기능을 �
 breadcrumb-title: 클라이언트 콘솔 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 94%
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + {hide-from-toc}[AMP를 사용하여 대화형 전자 메일 콘텐츠 정의](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[AMP를 사용하여 대화형 이메일 콘텐츠 정의](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [랜딩 페이지 구성](/help/content-creation/configure-landingpages.md)
    + [설문 조사 만들기](/help/content-creation/create-a-survey.md)
 + 메시지 보내기{#sending-messages}
@@ -56,7 +56,7 @@ ht-degree: 94%
       + [SMS 게재 만들기](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 푸시 {#push}
       + {hide-from-toc}[모바일 앱 채널 설치](/help/send-messages/mobile/install-the-mobile-app.md)
-      + {hide-from-toc}[Experience Platform Mobile SDK을 사용하여 푸시 채널 구성](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + DM {#direct-mail}
       + [DM 게재 만들기](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 게재 템플릿 사용{#using-delivery-templates}

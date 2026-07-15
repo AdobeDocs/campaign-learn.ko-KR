@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # 문서 참여
