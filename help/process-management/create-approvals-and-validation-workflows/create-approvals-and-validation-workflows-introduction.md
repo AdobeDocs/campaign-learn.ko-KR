@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 267
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -40,9 +40,9 @@ Adobe Campaign은 마케터가 게재 콘텐츠, 캠페인 대상, 데이터 추
 
 1. [캠페인 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md):
 캠페인 워크플로의 모든 게재에 대해 동일한 검토자 세트가 있는 경우 캠페인 수준에서 승인 및 검토자를 설정하여 캠페인 승인 기능을 적용합니다. 워크플로가 실행되면 승인 작업 및 검토자가 워크플로의 각 게재 활동에 푸시됩니다.
-2. [게재에 대한 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md):
+2. [게재 승인 구성](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md):
 게재 수준에서 승인을 설정할 수도 있습니다. 게재 승인 단계 및 검토자가 캠페인 승인 단계 및 검토자와 다른 경우 게재 설정이 캠페인 설정을 덮어씁니다.
-3. [워크플로에서 승인 프로세스 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):
-승인 활동을 통해 워크플로우 내에 승인 프로세스를 만들 수 있습니다. 이 방법으로 게재를 시작하기 전에 타기팅 선택 논리를 승인할 수 있습니다. 또한 필요한 경우 워크플로 내의 여러 수준에서 승인을 받을 수 있습니다.
+3. [워크플로 내에 승인 프로세스 만들기](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):
+승인 활동을 사용하여 워크플로 내에 승인 프로세스를 만들 수 있습니다. 이 방법으로 게재를 시작하기 전에 타기팅 선택 논리를 승인할 수 있습니다. 또한 필요한 경우 워크플로 내의 여러 수준에서 승인을 받을 수 있습니다.
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ko)를 참조하세요.
