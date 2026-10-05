@@ -10,22 +10,35 @@ team: WWFRE
 role: User, Admin, Developer
 level: Experienced
 exl-id: 58f30484-72ae-4821-ae22-6391fb615156
-TQID: https://experienceleague.adobe.com/jy7XH3ZHhvTk2EWi9DhM8GW9D4DqT552B1aBawjGVps
+TQID: 'https://experienceleague.adobe.com/jy7XH3ZHhvTk2EWi9DhM8GW9D4DqT552B1aBawjGVps'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 30
+source-wordcount: '30'
 ht-degree: 100%
-
 ---
-
 # 구독 서비스 구성 및 관리
 
 구독 및 대상 구독자를 설정 및 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426558?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
