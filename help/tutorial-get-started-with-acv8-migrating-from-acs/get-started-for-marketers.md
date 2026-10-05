@@ -50,7 +50,7 @@ ht-degree: 13%
 
 ## Campaign 웹 사용자 인터페이스 액세스 및 탐색
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453429?captions=kor&quality=12&learn=on){transcript=true}
 
 * [인터페이스 살펴보기](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/user-interface)
 * [목록 찾아보기 및 필터링](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/list-filters)
@@ -69,7 +69,7 @@ Campaign v8에서 대상을 만들고 관리하는 일반적인 개념은 Adobe 
 
 Campaign Web 사용자 인터페이스를 사용한 프로필 액세스, 관리, 탐색 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448371?captions=kor&quality=12&learn=on){transcript=true}
 
 자세한 내용은 [프로필 시작](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}을 참조하세요.
 
@@ -77,7 +77,7 @@ Campaign Web 사용자 인터페이스를 사용한 프로필 액세스, 관리,
 
 대상자를 작성 및 관리하는 방법, 게재할 대상자를 선택하는 방법, 컨트롤 그룹을 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453209?captions=kor&quality=12&learn=on){transcript=true}
 
 자세한 내용은 [대상자 시작](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}을 참조하세요.
 
@@ -133,7 +133,7 @@ Adobe Campaign 웹을 사용하여 뉴스레터와 같은 서비스를 관리 �
 
 1. 워크플로의 작동 방식과 타기팅 워크플로를 만드는 방법을 이해합니다.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453979?captions=kor&quality=12&learn=on){transcript=true}
 
 1. [워크플로 활동을 사용하여 작업](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [워크플로에 대한 보호 기능 및 제한 사항](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -144,23 +144,23 @@ Adobe Campaign 웹을 사용하여 뉴스레터와 같은 서비스를 관리 �
 
 이메일 게재를 처음부터 새로 만들고, 대상자를 정의하고, 콘텐츠를 디자인하고, 미리 보기를 시뮬레이션하고, 교정쇄를 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454012?captions=kor&quality=12&learn=on){transcript=true}
 
 #### &#x200B;1. 콘텐츠 디자인 및 정의
 
 이메일 디자이너를 탐색하는 방법을 이해합니다. 이메일의 구조를 처음부터 만들고 디자인하는 방법, 이메일을 개인화하고 테스트하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453572?captions=kor&quality=12&learn=on){transcript=true}
 
 HTML을 업로드하여 이메일을 만드는 방법, 이메일 Designer과 호환되도록 하는 방법 및 템플릿으로 변환하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447039?captions=kor&quality=12&learn=on){transcript=true}
 
 #### &#x200B;2. 미리 보기 및 테스트
 
 인기 있는 데스크톱, 모바일 및 웹 기반 클라이언트에서 이메일 메시지 콘텐츠 및 개인화를 미리 보고, 테스트 게재(증명)를 보내고, 이메일 렌더링을 확인하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450344?captions=kor&quality=12&learn=on){transcript=true}
 
 #### &#x200B;3. 이메일 및 확인 로그 보내기
 

@@ -45,4 +45,4 @@ Adobe Campaign은 워크플로를 사용하여 타기팅 캠페인을 수행하�
 
 타기팅 워크플로를 사용하여 여러 게재 타깃을 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450195?captions=kor&quality=12&learn=on){transcript=true}

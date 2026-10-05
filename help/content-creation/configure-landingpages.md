@@ -41,4 +41,4 @@ Adobe Campaign을 사용하면 온라인 설문 조사, 기본 설정 센터, �
 
 이 비디오에서는 기본 설정 센터를 만들어 Adobe Campaign의 웹 애플리케이션 편집기를 탐색하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450221?captions=kor&quality=12&learn=on){transcript=true}
