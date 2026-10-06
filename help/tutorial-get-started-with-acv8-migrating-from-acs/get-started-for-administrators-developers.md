@@ -5,30 +5,42 @@ role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
-TQID: https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU
+TQID: 'https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
   - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
 subfeature_v2:
   - id: e3988c18-3cfa-4f16-b812-ac2d2b1056fa
+    internal-label: Permissions
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Administration
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 402
+source-wordcount: '402'
 ht-degree: 13%
-
 ---
-
 # 관리자 및 개발자를 위한 시작 튜토리얼
 
 이 튜토리얼에서는 Campaign v8의 주요 관리 및 데이터 관리 기능에 대한 개요를 제공합니다. Campaign Standard에서 Campaign v8로 마이그레이션하는 관리자 및 기술 마케터를 위한 것입니다.

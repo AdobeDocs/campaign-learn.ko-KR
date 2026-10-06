@@ -5,29 +5,40 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+TQID: 'https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
 subfeature_v2:
   - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+    internal-label: Target integration
   - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+    internal-label: Triggers
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Personalization
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 2242
-ht-degree: 16%
-
+source-wordcount: '2866'
+ht-degree: 13%
 ---
-
 # 마케터를 위한 시작 튜토리얼
 
 이 안내서에서는 Campaign v8의 주요 기능에 대한 개요를 제공합니다. Campaign Standard에서 Campaign v8로 마이그레이션하는 마케터를 위한 것입니다.
@@ -640,8 +651,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" title="Adobe Experience Cloud과 대상 공유" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Adobe Experience Cloud과 대상 공유"
+                    <a href="https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" title="Adobe Experience Cloud와 대상 공유" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Adobe Experience Cloud와 대상 공유"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -649,9 +660,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" target="_blank" rel="referrer" title="Adobe Experience Cloud과 대상 공유">Adobe Experience Cloud과 대상 공유</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" target="_blank" rel="referrer" title="Adobe Experience Cloud와 대상 공유">Adobe Experience Cloud와 대상 공유</a>
                     </p>
-                    <p class="is-size-6">Adobe Experience Cloud과 대상 공유</p>
+                    <p class="is-size-6">Adobe Experience Cloud와 대상 공유</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -686,8 +697,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/connect/ac-triggers" title="Campaign 및 Adobe Experience Cloud 트리거 작업" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Campaign 및 Adobe Experience Cloud 트리거 작업"
+                    <a href="https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/connect/ac-triggers" title="Campaign 및 Adobe Experience Cloud 트리거를 사용한 작업" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Campaign 및 Adobe Experience Cloud 트리거를 사용한 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -695,9 +706,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/connect/ac-triggers" target="_blank" rel="referrer" title="Campaign 및 Adobe Experience Cloud 트리거 작업">Campaign 및 Adobe Experience Cloud 트리거를 사용하여 작업</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/connect/ac-triggers" target="_blank" rel="referrer" title="Campaign 및 Adobe Experience Cloud 트리거를 사용한 작업">Campaign 및 Adobe Experience Cloud 트리거를 사용하여 작업</a>
                     </p>
-                    <p class="is-size-6">Campaign 및 Adobe Experience Cloud 트리거를 사용하여 작업하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">Campaign 및 Adobe Experience Cloud 트리거를 사용하여 작업하는 방법을 알아봅니다</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/connect/ac-triggers" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>

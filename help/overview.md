@@ -6,29 +6,44 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-TQID: https://experienceleague.adobe.com/GAu66q2WgwmhB6M2TMq5i17lBUpejBmsV02u2sW7zQ4
+TQID: 'https://experienceleague.adobe.com/GAu66q2WgwmhB6M2TMq5i17lBUpejBmsV02u2sW7zQ4'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: e8d937ec-9046-41b5-834b-d22a624e0d37
+    internal-label: Campaign overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Data management
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '473'
 ht-degree: 100%
-
 ---
-
 # Adobe Campaign v8 클라이언트 콘솔 튜토리얼
 
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign V8 클라이언트 콘솔의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
@@ -70,7 +85,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>마케팅 계획, 프로그램, 캠페인 만드는 방법을 알아봅니다.</em>
+    <em>마케팅 계획, 프로그램 및 캠페인을 만드는 방법을 알아봅니다.</em>
     <p>
   </td>
    <td>
@@ -126,7 +141,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>타겟팅 차원과 작업 테이블이 무엇인지와 Adobe Campaign에서 다양한 데이터 소스에 흩어진 데이터를 관리하는 방법을 알아봅니다.</em>
+    <em>타겟팅 차원과 작업 테이블의 정의와, Adobe Campaign에서 다양한 데이터 소스 전반에 걸친 데이터를 관리하는 방법을 알아봅니다.</em>
     <p>
   </td>
   <td>
