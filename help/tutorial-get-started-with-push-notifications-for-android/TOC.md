@@ -6,11 +6,9 @@ source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
-
 ---
 
-
-# Android™용 푸시 알림 시작  {#get-started-with-push-notifications-for-android}
+# Android™용 푸시 알림 시작 {#get-started-with-push-notifications-for-android}
 
 + [Android용 푸시 알림 시작 - 소개](/help/tutorial-get-started-with-push-notifications-for-android/introduction.md)
 + [1단계: 앱 구독 스키마를 확장하여 푸시 알림 개인화](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
