@@ -313,11 +313,11 @@ Adobe Campaign v8은 Android™ 및 iOS 푸시 채널을 모두 지원합니다.
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/ko/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="유효성 검사" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>랜딩 페이지 템플릿 작업</strong></a>
+<a href="https://experienceleague.adobe.com/ko/docs/campaign-web/v8/landing-pages/lp-templates"><strong>랜딩 페이지 템플릿 작업</strong></a>
 </div>
 <p>
 </td>
