@@ -51,7 +51,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 보기
 
 >[!INFO]
-> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
+> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com?lang=ko:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
 > 
 > 이 튜토리얼은 원하던 답변이 아닌가요?
 > Campaign Web 사용자 인터페이스를 사용하는 방법에 대한 안내는 [Adobe Campaign Web 사용자 인터페이스 튜토리얼](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ko)을 참조하십시오.
