@@ -70,7 +70,7 @@ ht-degree: 13%
    * 운영자 그룹 만들기 및 명명된 권한 할당
    * 운영자 그룹⇄ 제품 프로필 매핑
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505215/?captions=kor&learn=on)
 
 자세한 단계별 가이드를 작성하려면 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}를 참조하세요.
 
