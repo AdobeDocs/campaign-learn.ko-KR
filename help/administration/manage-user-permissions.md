@@ -46,4 +46,4 @@ Campaign v8 사용자 권한을 설정하고 관리하는 방법을 알아봅니
 * 명명된 권한
 * 폴더 수준에서 권한 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505215/?captions=kor&learn=on)
